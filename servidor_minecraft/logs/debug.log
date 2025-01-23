@@ -13502,3 +13502,165 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [23Jan2025 02:30:25.931] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6544, y=66, z=5475}
 [23Jan2025 02:30:25.932] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6539, y=59, z=5495}
 [23Jan2025 02:30:25.943] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6539, y=59, z=5495}
+[23Jan2025 02:30:39.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3750ms or 75 ticks behind
+[23Jan2025 02:30:40.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hikejace moved too quickly! 9.08293040384342,-4.231523797587016,-0.6604405063962986
+[23Jan2025 02:30:58.166] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[23Jan2025 02:31:17.340] [IO-Worker-55/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[23Jan2025 02:31:29.675] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/mechanicalArm/ArmInteractionPoint$Mode
+[23Jan2025 02:31:31.572] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[23Jan2025 02:31:49.649] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[23Jan2025 02:32:30.688] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [683914de-0a07-4e7d-843d-f98f5da99894]
+[23Jan2025 02:32:30.853] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[23Jan2025 02:32:39.645] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Oretha'/75541, l='ServerLevel[world]', x=-6654.49, y=73.00, z=5400.92] died, message: 'Oretha was slain by The Rod'
+[23Jan2025 02:32:39.646] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Oretha'/75541, l='ServerLevel[world]', x=-6654.49, y=73.00, z=5400.92] died: Oretha was slain by The Rod
+[23Jan2025 02:32:42.350] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leo'/75540, l='ServerLevel[world]', x=-6655.51, y=73.00, z=5397.16] died, message: 'Leo was slain by The Rod'
+[23Jan2025 02:32:42.350] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Leo'/75540, l='ServerLevel[world]', x=-6655.51, y=73.00, z=5397.16] died: Leo was slain by The Rod
+[23Jan2025 02:33:40.679] [IO-Worker-55/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[23Jan2025 02:33:40.679] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[23Jan2025 02:33:59.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to SadduranGT]
+[23Jan2025 02:34:34.112] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[23Jan2025 02:34:34.112] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[23Jan2025 02:34:34.112] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[23Jan2025 02:34:34.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 02:34:34.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 02:35:05.304] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[23Jan2025 02:35:43.083] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@6ba5629c]Trying to start horde event on day 100 with nextDay 100 and time 15000
+[23Jan2025 02:35:43.083] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@9581407
+[23Jan2025 02:35:43.083] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 90
+[23Jan2025 02:35:43.083] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 90
+[23Jan2025 02:35:43.083] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 90
+[23Jan2025 02:35:43.084] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{AbsorptionAmount:0.0f,Age:0,ArmorDropChances:[0.085f,0.085f,0.085f,0.085f],ArmorItems:[{},{},{},{}],Attributes:[{Base:0.7109545364495029d,Name:"minecraft:horse.jump_strength"},{Base:35.0d,Modifiers:[{Amount:0.08251533024298759d,Name:"Random spawn bonus",Operation:1,UUID:[I;316283602,-8174625,-1593253961,-1718103559]}],Name:"minecraft:generic.follow_range"}],Brain:{memories:{}},Bred:0b,CanPickUpLoot:0b,CitadelData:{},ConversionTime:-1,DeathTime:0s,EatingHaystack:0b,FallFlying:0b,ForcedAge:0,HandDropChances:[0.085f,0.085f],HandItems:[{},{}],Health:15.0f,HurtByTimestamp:0,HurtTime:0s,InLove:0,LeftHanded:0b,Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],PersistenceRequired:0b,Tame:0b,Temper:0,id:"minecraft:zombie_horse"}} to hordespawn on day 90
+[23Jan2025 02:35:43.084] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@a664d90]Trying to start horde event on day 64 with nextDay 64 and time 15000
+[23Jan2025 02:35:43.084] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@15214e7c
+[23Jan2025 02:35:43.084] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 60
+[23Jan2025 02:35:43.085] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 60
+[23Jan2025 02:35:43.085] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 60
+[23Jan2025 02:35:43.085] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{AbsorptionAmount:0.0f,Age:0,ArmorDropChances:[0.085f,0.085f,0.085f,0.085f],ArmorItems:[{},{},{},{}],Attributes:[{Base:0.7109545364495029d,Name:"minecraft:horse.jump_strength"},{Base:35.0d,Modifiers:[{Amount:0.08251533024298759d,Name:"Random spawn bonus",Operation:1,UUID:[I;316283602,-8174625,-1593253961,-1718103559]}],Name:"minecraft:generic.follow_range"}],Brain:{memories:{}},Bred:0b,CanPickUpLoot:0b,CitadelData:{},ConversionTime:-1,DeathTime:0s,EatingHaystack:0b,FallFlying:0b,ForcedAge:0,HandDropChances:[0.085f,0.085f],HandItems:[{},{}],Health:15.0f,HurtByTimestamp:0,HurtTime:0s,InLove:0,LeftHanded:0b,Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],PersistenceRequired:0b,Tame:0b,Temper:0,id:"minecraft:zombie_horse"}} to hordespawn on day 60
+[23Jan2025 02:35:43.128] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 100
+[23Jan2025 02:35:43.128] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 100
+[23Jan2025 02:35:43.129] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 100
+[23Jan2025 02:35:43.129] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{AbsorptionAmount:0.0f,Age:0,ArmorDropChances:[0.085f,0.085f,0.085f,0.085f],ArmorItems:[{},{},{},{}],Attributes:[{Base:0.7109545364495029d,Name:"minecraft:horse.jump_strength"},{Base:35.0d,Modifiers:[{Amount:0.08251533024298759d,Name:"Random spawn bonus",Operation:1,UUID:[I;316283602,-8174625,-1593253961,-1718103559]}],Name:"minecraft:generic.follow_range"}],Brain:{memories:{}},Bred:0b,CanPickUpLoot:0b,CitadelData:{},ConversionTime:-1,DeathTime:0s,EatingHaystack:0b,FallFlying:0b,ForcedAge:0,HandDropChances:[0.085f,0.085f],HandItems:[{},{}],Health:15.0f,HurtByTimestamp:0,HurtTime:0s,InLove:0,LeftHanded:0b,Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],PersistenceRequired:0b,Tame:0b,Temper:0,id:"minecraft:zombie_horse"}} to hordespawn on day 100
+[23Jan2025 02:35:43.142] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 64
+[23Jan2025 02:35:43.142] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 64
+[23Jan2025 02:35:43.142] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 64
+[23Jan2025 02:35:43.142] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{AbsorptionAmount:0.0f,Age:0,ArmorDropChances:[0.085f,0.085f,0.085f,0.085f],ArmorItems:[{},{},{},{}],Attributes:[{Base:0.6710597477848167d,Name:"minecraft:horse.jump_strength"},{Base:35.0d,Modifiers:[{Amount:0.0060972593718660595d,Name:"Random spawn bonus",Operation:1,UUID:[I;-1944443352,659310892,-1609670738,-3089736]}],Name:"minecraft:generic.follow_range"}],Brain:{memories:{}},Bred:0b,CanPickUpLoot:0b,CitadelData:{},ConversionTime:-1,DeathTime:0s,EatingHaystack:0b,FallFlying:0b,ForcedAge:0,HandDropChances:[0.085f,0.085f],HandItems:[{},{}],Health:15.0f,HurtByTimestamp:0,HurtTime:0s,InLove:0,LeftHanded:0b,Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],PersistenceRequired:0b,Tame:0b,Temper:0,id:"minecraft:zombie_horse"}} to hordespawn on day 64
+[23Jan2025 02:36:14.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23Jan2025 02:36:41.712] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [e9e46db3-e86c-4b07-83fa-8ce22a2e9767]
+[23Jan2025 02:37:05.546] [IO-Worker-55/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[23Jan2025 02:37:25.129] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 100
+[23Jan2025 02:37:25.130] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 100
+[23Jan2025 02:37:25.130] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 100
+[23Jan2025 02:37:25.130] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{AbsorptionAmount:0.0f,Age:0,ArmorDropChances:[0.085f,0.085f,0.085f,0.085f],ArmorItems:[{},{},{},{}],Attributes:[{Base:0.7569776131050827d,Name:"minecraft:horse.jump_strength"},{Base:35.0d,Modifiers:[{Amount:0.027167874159052356d,Name:"Random spawn bonus",Operation:1,UUID:[I;1130843944,-1223932107,-1796775578,1501874037]}],Name:"minecraft:generic.follow_range"}],Brain:{memories:{}},Bred:0b,CanPickUpLoot:0b,CitadelData:{},ConversionTime:-1,DeathTime:0s,EatingHaystack:0b,FallFlying:0b,ForcedAge:0,HandDropChances:[0.085f,0.085f],HandItems:[{},{}],Health:15.0f,HurtByTimestamp:0,HurtTime:0s,InLove:0,LeftHanded:0b,Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],PersistenceRequired:0b,Tame:0b,Temper:0,id:"minecraft:zombie_horse"}} to hordespawn on day 100
+[23Jan2025 02:37:25.142] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 64
+[23Jan2025 02:37:25.143] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 64
+[23Jan2025 02:37:25.143] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 64
+[23Jan2025 02:37:25.143] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{AbsorptionAmount:0.0f,Age:0,ArmorDropChances:[0.085f,0.085f,0.085f,0.085f],ArmorItems:[{},{},{},{}],Attributes:[{Base:0.6516486792356077d,Name:"minecraft:horse.jump_strength"},{Base:35.0d,Modifiers:[{Amount:0.029787468897058314d,Name:"Random spawn bonus",Operation:1,UUID:[I;-332026511,-749843486,-1517757183,-2016983120]}],Name:"minecraft:generic.follow_range"}],Brain:{memories:{}},Bred:0b,CanPickUpLoot:0b,CitadelData:{},ConversionTime:-1,DeathTime:0s,EatingHaystack:0b,FallFlying:0b,ForcedAge:0,HandDropChances:[0.085f,0.085f],HandItems:[{},{}],Health:15.0f,HurtByTimestamp:0,HurtTime:0s,InLove:0,LeftHanded:0b,Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],PersistenceRequired:0b,Tame:0b,Temper:0,id:"minecraft:zombie_horse"}} to hordespawn on day 64
+[23Jan2025 02:37:32.967] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[23Jan2025 02:37:51.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3759ms or 75 ticks behind
+[23Jan2025 02:38:24.538] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [c57f94eb-44a5-4fed-8aa4-7487f69435ae]
+[23Jan2025 02:38:31.769] [IO-Worker-55/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[23Jan2025 02:38:37.849] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [6cad3eb6-f3c0-40b0-8a29-a5d3fa7715a8]
+[23Jan2025 02:39:10.883] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 100
+[23Jan2025 02:39:10.883] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 100
+[23Jan2025 02:39:10.883] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 100
+[23Jan2025 02:39:10.883] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{AbsorptionAmount:0.0f,Age:0,ArmorDropChances:[0.085f,0.085f,0.085f,0.085f],ArmorItems:[{},{},{},{}],Attributes:[{Base:0.6734331821700593d,Name:"minecraft:horse.jump_strength"},{Base:35.0d,Modifiers:[{Amount:0.012855112320398633d,Name:"Random spawn bonus",Operation:1,UUID:[I;1870575288,1846692856,-1878395794,1181855944]}],Name:"minecraft:generic.follow_range"}],Brain:{memories:{}},Bred:0b,CanPickUpLoot:0b,CitadelData:{},ConversionTime:-1,DeathTime:0s,EatingHaystack:0b,FallFlying:0b,ForcedAge:0,HandDropChances:[0.085f,0.085f],HandItems:[{},{}],Health:15.0f,HurtByTimestamp:0,HurtTime:0s,InLove:0,LeftHanded:0b,Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],PersistenceRequired:0b,Tame:0b,Temper:0,id:"minecraft:zombie_horse"}} to hordespawn on day 100
+[23Jan2025 02:39:10.894] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 64
+[23Jan2025 02:39:10.894] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 64
+[23Jan2025 02:39:10.894] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 64
+[23Jan2025 02:39:10.895] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{AbsorptionAmount:0.0f,Age:0,ArmorDropChances:[0.085f,0.085f,0.085f,0.085f],ArmorItems:[{},{},{},{}],Attributes:[{Base:0.7768991709999464d,Name:"minecraft:horse.jump_strength"},{Base:35.0d,Modifiers:[{Amount:0.026203745440446683d,Name:"Random spawn bonus",Operation:1,UUID:[I;-958104802,-779137838,-1487673774,-1714082416]}],Name:"minecraft:generic.follow_range"}],Brain:{memories:{}},Bred:0b,CanPickUpLoot:0b,CitadelData:{},ConversionTime:-1,DeathTime:0s,EatingHaystack:0b,FallFlying:0b,ForcedAge:0,HandDropChances:[0.085f,0.085f],HandItems:[{},{}],Health:15.0f,HurtByTimestamp:0,HurtTime:0s,InLove:0,LeftHanded:0b,Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],PersistenceRequired:0b,Tame:0b,Temper:0,id:"minecraft:zombie_horse"}} to hordespawn on day 64
+[23Jan2025 02:39:36.909] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [556d1c12-10b3-4edd-87ed-96c07eedd15c]
+[23Jan2025 02:39:41.902] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[23Jan2025 02:39:41.903] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[23Jan2025 02:39:41.903] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[23Jan2025 02:39:41.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 02:39:41.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 02:39:52.499] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[23Jan2025 02:40:02.873] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [045482b2-ef32-465b-9df1-06dbff8cc6a3]
+[23Jan2025 02:40:15.066] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[23Jan2025 02:40:39.867] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [2d11ecea-0cfa-440a-a08e-23a189e0005a]
+[23Jan2025 02:40:44.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Lcdo_Patino]
+[23Jan2025 02:40:51.771] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[23Jan2025 02:42:31.965] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[23Jan2025 02:43:28.738] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [f440b354-136d-4ce9-baee-5b0c3d118389]
+[23Jan2025 02:44:43.861] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[23Jan2025 02:44:43.861] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[23Jan2025 02:44:43.861] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[23Jan2025 02:44:43.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 02:44:43.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 02:44:44.159] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[23Jan2025 02:45:15.054] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[23Jan2025 02:46:37.187] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:andesite} 1174 99 99 VisualFallingBlockEntity['Falling Andesite'/84593, l='ServerLevel[world]', x=1174.50, y=55.00, z=99.50]
+[23Jan2025 02:46:37.187] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:andesite} 1176 98 98 VisualFallingBlockEntity['Falling Andesite'/84594, l='ServerLevel[world]', x=1176.50, y=53.00, z=98.50]
+[23Jan2025 02:47:37.594] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 1162 91 91 VisualFallingBlockEntity['Falling Stone'/84728, l='ServerLevel[world]', x=1162.50, y=52.00, z=91.50]
+[23Jan2025 02:47:44.988] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/inventory/sorter/SortType$Type
+[23Jan2025 02:47:49.735] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:granite} 1167 90 90 VisualFallingBlockEntity['Falling Granite'/84775, l='ServerLevel[world]', x=1167.50, y=56.00, z=90.50]
+[23Jan2025 02:48:42.815] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[23Jan2025 02:48:53.701] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [0942ccad-b410-43b2-b725-938a1e629871]
+[23Jan2025 02:49:43.857] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[23Jan2025 02:49:43.857] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[23Jan2025 02:49:43.857] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[23Jan2025 02:49:43.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 02:49:43.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 02:49:44.139] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[23Jan2025 02:50:15.054] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[23Jan2025 02:50:48.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of SadduranGT) moved wrongly! 0.25509154420066243
+[23Jan2025 02:51:09.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of SadduranGT) moved wrongly! 0.8303134676032253
+[23Jan2025 02:51:09.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of SadduranGT) moved wrongly! 0.8303839401610338
+[23Jan2025 02:51:10.913] [IO-Worker-73/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[23Jan2025 02:51:16.067] [IO-Worker-73/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[23Jan2025 02:51:21.881] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[23Jan2025 02:51:36.295] [IO-Worker-76/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[23Jan2025 02:51:50.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to Hikejace]
+[23Jan2025 02:54:15.189] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity$AnimationStatus
+[23Jan2025 02:54:43.863] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[23Jan2025 02:54:43.863] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[23Jan2025 02:54:43.863] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[23Jan2025 02:54:43.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 02:54:43.923] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 02:55:15.054] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[23Jan2025 02:55:34.297] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Dione'/86312, l='ServerLevel[world]', x=545.93, y=74.00, z=576.66] died, message: 'Dione was shot by Arrow'
+[23Jan2025 02:55:34.297] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Dione'/86312, l='ServerLevel[world]', x=545.93, y=74.00, z=576.66] died: Dione was shot by Arrow
+[23Jan2025 02:56:17.563] [IO-Worker-76/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[23Jan2025 02:59:43.861] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[23Jan2025 02:59:43.861] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[23Jan2025 02:59:43.862] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[23Jan2025 02:59:43.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 02:59:43.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 03:00:15.054] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[23Jan2025 03:00:51.646] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[23Jan2025 03:02:27.630] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SadduranGT lost connection: Disconnected
+[23Jan2025 03:02:27.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT left the game
+[23Jan2025 03:02:27.710] [IO-Worker-76/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[23Jan2025 03:02:27.711] [IO-Worker-79/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[23Jan2025 03:02:28.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hikejace lost connection: Disconnected
+[23Jan2025 03:02:28.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace left the game
+[23Jan2025 03:02:30.480] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lcdo_Patino lost connection: Disconnected
+[23Jan2025 03:02:30.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino left the game
+[23Jan2025 03:02:47.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[23Jan2025 03:02:47.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Jan2025 03:02:47.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Jan2025 03:02:47.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Jan2025 03:02:47.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23Jan2025 03:02:47.517] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[23Jan2025 03:02:47.518] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[23Jan2025 03:02:47.518] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[23Jan2025 03:02:49.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23Jan2025 03:02:49.021] [IO-Worker-79/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[23Jan2025 03:02:49.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23Jan2025 03:02:49.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 03:02:49.036] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 03:02:49.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Jan2025 03:02:49.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Jan2025 03:02:49.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Jan2025 03:02:49.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23Jan2025 03:02:49.071] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[23Jan2025 03:02:49.071] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[23Jan2025 03:02:49.692] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[23Jan2025 03:02:49.692] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[23Jan2025 03:02:49.692] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[23Jan2025 03:02:49.692] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[23Jan2025 03:02:49.704] [Worker-Main-3/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-3 shutdown
+[23Jan2025 03:02:49.705] [Worker-Main-1/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-1 shutdown
+[23Jan2025 03:02:49.705] [Worker-Main-2/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-2 shutdown
+[23Jan2025 03:02:49.706] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[23Jan2025 03:02:49.706] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
