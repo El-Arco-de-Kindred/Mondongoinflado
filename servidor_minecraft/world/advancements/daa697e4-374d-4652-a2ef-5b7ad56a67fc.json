@@ -2201,6 +2201,7 @@
       "minecraft:river": "2025-01-08 23:10:51 +0000",
       "minecraft:lukewarm_ocean": "2025-01-08 23:36:43 +0000",
       "minecraft:stony_shore": "2025-01-11 00:46:34 +0000",
+      "minecraft:dripstone_caves": "2025-01-23 01:24:17 +0000",
       "minecraft:forest": "2025-01-08 23:00:55 +0000",
       "minecraft:desert": "2025-01-10 03:39:39 +0000",
       "minecraft:windswept_forest": "2025-01-19 00:15:45 +0000",
@@ -10265,75 +10266,105 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-23 01:23:45 +0000"
+      "log_spam_fixer": "2025-01-23 01:33:45 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-01-23 01:23:45 +0000"
+      "log_spam_fixer": "2025-01-23 01:33:45 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-23 01:23:45 +0000"
+      "log_spam_fixer": "2025-01-23 01:33:45 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-23 01:23:45 +0000"
+      "log_spam_fixer": "2025-01-23 01:33:45 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-23 01:23:45 +0000"
+      "log_spam_fixer": "2025-01-23 01:33:45 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-23 01:23:45 +0000"
+      "log_spam_fixer": "2025-01-23 01:33:45 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-23 01:23:45 +0000"
+      "log_spam_fixer": "2025-01-23 01:33:45 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-23 01:23:45 +0000"
+      "log_spam_fixer": "2025-01-23 01:33:45 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-23 01:23:45 +0000"
+      "log_spam_fixer": "2025-01-23 01:33:45 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-23 01:23:45 +0000"
+      "log_spam_fixer": "2025-01-23 01:33:45 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-23 01:23:45 +0000"
+      "log_spam_fixer": "2025-01-23 01:33:45 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-23 01:23:45 +0000"
+      "log_spam_fixer": "2025-01-23 01:33:45 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-01-23 01:33:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-01-23 01:28:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-01-23 01:28:51 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/ghostly_pickaxe": {
+    "criteria": {
+      "ghostly_pickaxe": "2025-01-23 01:31:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-01-23 01:28:51 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
