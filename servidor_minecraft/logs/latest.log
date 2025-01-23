@@ -1562,3 +1562,49 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [23Jan2025 01:34:33.854] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [23Jan2025 01:35:16.391] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/EntityAmphithere$FlightBehavior
 [23Jan2025 01:35:59.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to Hikejace]
+[23Jan2025 01:39:14.196] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[23Jan2025 01:39:14.196] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[23Jan2025 01:40:26.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Hikejace to Lcdo_Patino]
+[23Jan2025 01:42:44.686] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/mobs/fisher/FishingHook$FishHookState
+[23Jan2025 01:44:14.192] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[23Jan2025 01:44:14.192] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[23Jan2025 01:44:26.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to 1120.500000, -54.000000, -23.500000]
+[23Jan2025 01:45:16.153] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player SadduranGT is 0942ccad-b410-43b2-b725-938a1e629871
+[23Jan2025 01:45:18.155] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SadduranGT[/100.88.227.94:62605] logged in with entity id 28754 at (-7430.991906654657, 81.0, 4649.550596947201)
+[23Jan2025 01:45:18.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT joined the game
+[23Jan2025 01:45:18.199] [Server thread/INFO] [Jade/]: Syncing config to SadduranGT (0942ccad-b410-43b2-b725-938a1e629871)
+[23Jan2025 01:45:20.654] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jan2025 01:45:20.658] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id twilightforest:tiny_bird
+[23Jan2025 01:45:35.883] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Sunni'/28815, l='ServerLevel[world]', x=-7450.25, y=81.00, z=4645.78] died, message: 'Sunni was slain by The Horrors'
+[23Jan2025 01:45:35.884] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Sunni'/28815, l='ServerLevel[world]', x=-7450.25, y=81.00, z=4645.78] died: Sunni was slain by The Horrors
+[23Jan2025 01:45:57.901] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SadduranGT lost connection: Timed out
+[23Jan2025 01:45:57.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT left the game
+[23Jan2025 01:46:01.717] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player SadduranGT is 0942ccad-b410-43b2-b725-938a1e629871
+[23Jan2025 01:46:04.947] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SadduranGT[/100.88.227.94:62609] logged in with entity id 29432 at (-7432.689523192085, 81.0, 4647.165827321794)
+[23Jan2025 01:46:04.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT joined the game
+[23Jan2025 01:46:04.987] [Server thread/INFO] [Jade/]: Syncing config to SadduranGT (0942ccad-b410-43b2-b725-938a1e629871)
+[23Jan2025 01:46:06.997] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jan2025 01:46:06.997] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id twilightforest:tiny_bird
+[23Jan2025 01:46:54.700] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SadduranGT lost connection: Timed out
+[23Jan2025 01:46:54.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT left the game
+[23Jan2025 01:46:59.078] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player SadduranGT is 0942ccad-b410-43b2-b725-938a1e629871
+[23Jan2025 01:47:10.202] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SadduranGT[/100.88.227.94:62614] logged in with entity id 30565 at (-7432.689523192085, 81.0, 4647.165827321794)
+[23Jan2025 01:47:10.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT joined the game
+[23Jan2025 01:47:10.242] [Server thread/INFO] [Jade/]: Syncing config to SadduranGT (0942ccad-b410-43b2-b725-938a1e629871)
+[23Jan2025 01:47:11.794] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jan2025 01:47:11.794] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id twilightforest:tiny_bird
+[23Jan2025 01:47:31.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported SadduranGT to Hikejace]
+[23Jan2025 01:48:16.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to 1183.500000, 70.000000, 49.500000]
+[23Jan2025 01:48:21.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to 1187.000000, 72.000000, 39.000000]
+[23Jan2025 01:48:41.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SadduranGT: Teleported SadduranGT to 1140.500000, 65.000000, 53.500000]
+[23Jan2025 01:49:14.208] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[23Jan2025 01:49:14.208] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[23Jan2025 01:51:07.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SadduranGT: Teleported SadduranGT to 1181.000000, 77.000000, 48.000000]
+[23Jan2025 01:51:37.204] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[23Jan2025 01:52:13.061] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/ai/MyrmexAIReEnterHive$Phases
+[23Jan2025 01:54:14.225] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[23Jan2025 01:54:14.225] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[23Jan2025 01:54:25.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [One with Nature]
+[23Jan2025 01:54:54.996] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting top/theillusivec4/caelus/api/CaelusApi$TriState
+[23Jan2025 01:57:23.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to Hikejace]
+[23Jan2025 01:58:35.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SadduranGT: Teleported SadduranGT to Hikejace]
