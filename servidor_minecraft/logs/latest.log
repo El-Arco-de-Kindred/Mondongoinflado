@@ -2368,3 +2368,8 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [24Jan2025 19:00:18.944] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Duane'/70801, l='ServerLevel[world]', x=4701.79, y=113.77, z=3353.23] died: Duane was slain by Ice Dragon
 [24Jan2025 19:04:23.766] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [24Jan2025 19:04:23.766] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[24Jan2025 19:09:23.765] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[24Jan2025 19:09:23.766] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[24Jan2025 19:13:13.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Laudin114: Teleported Laudin114 to Lcdo_Patino]
+[24Jan2025 19:14:23.762] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[24Jan2025 19:14:23.762] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
