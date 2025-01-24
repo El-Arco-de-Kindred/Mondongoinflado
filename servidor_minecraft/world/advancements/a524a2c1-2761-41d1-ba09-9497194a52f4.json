@@ -9024,74 +9024,74 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 02:22:33 +0000"
+      "log_spam_fixer": "2025-01-24 02:32:34 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-01-24 02:22:48 +0000",
-      "log_spam_fixer": "2025-01-24 02:22:33 +0000"
+      "requirement": "2025-01-24 02:32:40 +0000",
+      "log_spam_fixer": "2025-01-24 02:32:34 +0000"
     },
     "done": true
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 02:22:33 +0000"
+      "log_spam_fixer": "2025-01-24 02:32:34 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 02:22:33 +0000"
+      "log_spam_fixer": "2025-01-24 02:32:34 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 02:22:33 +0000"
+      "log_spam_fixer": "2025-01-24 02:32:34 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 02:22:33 +0000"
+      "log_spam_fixer": "2025-01-24 02:32:34 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 02:22:33 +0000"
+      "log_spam_fixer": "2025-01-24 02:32:34 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 02:22:33 +0000"
+      "log_spam_fixer": "2025-01-24 02:32:34 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 02:22:33 +0000"
+      "log_spam_fixer": "2025-01-24 02:32:34 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 02:22:33 +0000"
+      "log_spam_fixer": "2025-01-24 02:32:34 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 02:22:33 +0000"
+      "log_spam_fixer": "2025-01-24 02:32:34 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 02:22:33 +0000"
+      "log_spam_fixer": "2025-01-24 02:32:34 +0000"
     },
     "done": false
   },
@@ -9167,6 +9167,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-24 02:24:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
     "criteria": {
       "cooked_mutton_chops": "2025-01-24 01:46:38 +0000"
@@ -9188,6 +9194,12 @@
   "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-24 02:05:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-24 02:24:24 +0000"
     },
     "done": true
   },
@@ -9215,6 +9227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-24 02:24:26 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragonbone_flaming_sword": {
     "criteria": {
       "sword": "2025-01-24 02:03:36 +0000"
@@ -9236,6 +9254,12 @@
   "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-24 02:05:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-01-24 02:24:26 +0000"
     },
     "done": true
   },
@@ -9308,6 +9332,12 @@
   "iceandfire:recipes/combat/tide_green_chestplate": {
     "criteria": {
       "has_item": "2025-01-24 02:15:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-24 02:24:24 +0000"
     },
     "done": true
   },
