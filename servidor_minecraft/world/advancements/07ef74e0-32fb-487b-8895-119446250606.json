@@ -11805,75 +11805,81 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 02:42:34 +0000"
+      "log_spam_fixer": "2025-01-24 02:57:34 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 02:42:34 +0000"
+      "log_spam_fixer": "2025-01-24 02:57:34 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 02:42:34 +0000"
+      "log_spam_fixer": "2025-01-24 02:57:34 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 02:42:34 +0000"
+      "log_spam_fixer": "2025-01-24 02:57:34 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 02:42:34 +0000"
+      "log_spam_fixer": "2025-01-24 02:57:34 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 02:42:34 +0000"
+      "log_spam_fixer": "2025-01-24 02:57:34 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 02:42:34 +0000"
+      "log_spam_fixer": "2025-01-24 02:57:34 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 02:42:34 +0000"
+      "log_spam_fixer": "2025-01-24 02:57:34 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 02:42:34 +0000"
+      "log_spam_fixer": "2025-01-24 02:57:34 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 02:42:34 +0000"
+      "log_spam_fixer": "2025-01-24 02:57:34 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 02:42:34 +0000"
+      "log_spam_fixer": "2025-01-24 02:57:34 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 02:42:34 +0000"
+      "log_spam_fixer": "2025-01-24 02:57:34 +0000"
     },
     "done": false
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-01-24 02:54:36 +0000"
+    },
+    "done": true
   },
   "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
     "criteria": {
@@ -11884,6 +11890,12 @@
   "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-01-24 02:24:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-01-24 02:54:36 +0000"
     },
     "done": true
   },
@@ -11902,6 +11914,12 @@
   "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
     "criteria": {
       "has_vex_armor_trim_smithing_template": "2025-01-24 02:24:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/dispenser_minecart": {
+    "criteria": {
+      "has_dispenser": "2025-01-24 02:53:58 +0000"
     },
     "done": true
   },
