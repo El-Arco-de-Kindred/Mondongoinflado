@@ -1656,3 +1656,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Jan2025 02:58:09.456] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [24Jan2025 02:58:09.456] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [24Jan2025 02:58:09.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Laudin114 to Hikejace]
+[24Jan2025 02:59:06.375] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Laudin114 lost connection: Disconnected
+[24Jan2025 02:59:06.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 left the game
+[24Jan2025 02:59:29.231] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Laudin114 is a524a2c1-2761-41d1-ba09-9497194a52f4
+[24Jan2025 02:59:31.196] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Laudin114[/100.87.224.117:56957] logged in with entity id 54816 at (1184.97398354085, 70.0, 43.950439902428826)
+[24Jan2025 02:59:31.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 joined the game
+[24Jan2025 02:59:31.275] [Server thread/INFO] [Jade/]: Syncing config to Laudin114 (a524a2c1-2761-41d1-ba09-9497194a52f4)
+[24Jan2025 03:00:25.628] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[24Jan2025 03:02:55.228] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[24Jan2025 03:03:06.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Laudin114 to Hikejace]
+[24Jan2025 03:03:09.454] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[24Jan2025 03:03:09.454] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[24Jan2025 03:08:09.452] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[24Jan2025 03:08:09.452] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
