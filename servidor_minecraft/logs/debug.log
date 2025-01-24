@@ -12325,3 +12325,38 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Jan2025 02:34:50.794] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
 [24Jan2025 02:34:50.799] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
 [24Jan2025 02:37:29.919] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [a524a2c1-2761-41d1-ba09-9497194a52f4]
+[24Jan2025 02:37:33.749] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[24Jan2025 02:37:50.446] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[24Jan2025 02:37:50.448] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[24Jan2025 02:37:50.448] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[24Jan2025 02:38:09.452] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[24Jan2025 02:38:09.453] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[24Jan2025 02:38:09.453] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[24Jan2025 02:38:09.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 02:38:09.490] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 02:41:11.962] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[24Jan2025 02:42:11.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [A Flaming Sword]
+[24Jan2025 02:42:33.749] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[24Jan2025 02:42:35.210] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[24Jan2025 02:42:58.985] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 1039 25 25 VisualFallingBlockEntity['Falling Stone'/47541, l='ServerLevel[world]', x=1039.50, y=35.00, z=25.50]
+[24Jan2025 02:42:58.991] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 1035 29 29 VisualFallingBlockEntity['Falling Stone'/47543, l='ServerLevel[world]', x=1035.50, y=33.00, z=29.50]
+[24Jan2025 02:43:05.332] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 1037 23 23 VisualFallingBlockEntity['Falling Stone'/47586, l='ServerLevel[world]', x=1037.50, y=26.00, z=23.50]
+[24Jan2025 02:43:05.335] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 1036 23 23 VisualFallingBlockEntity['Falling Stone'/47587, l='ServerLevel[world]', x=1036.50, y=28.00, z=23.50]
+[24Jan2025 02:43:09.461] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[24Jan2025 02:43:09.461] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[24Jan2025 02:43:09.462] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[24Jan2025 02:43:09.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 02:43:09.502] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 02:43:12.482] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 1042 20 20 VisualFallingBlockEntity['Falling Stone'/47614, l='ServerLevel[world]', x=1042.50, y=26.00, z=20.50]
+[24Jan2025 02:43:30.329] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 1049 22 22 VisualFallingBlockEntity['Falling Stone'/47849, l='ServerLevel[world]', x=1049.50, y=25.00, z=22.50]
+[24Jan2025 02:43:41.128] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:andesite} 1053 23 23 VisualFallingBlockEntity['Falling Andesite'/47903, l='ServerLevel[world]', x=1053.50, y=28.00, z=23.50]
+[24Jan2025 02:44:55.785] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 1078 23 23 VisualFallingBlockEntity['Falling Stone'/48307, l='ServerLevel[world]', x=1078.50, y=24.00, z=23.50]
+[24Jan2025 02:45:09.724] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 1079 28 28 VisualFallingBlockEntity['Falling Stone'/48347, l='ServerLevel[world]', x=1079.50, y=25.00, z=28.50]
+[24Jan2025 02:45:09.728] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 1075 27 27 VisualFallingBlockEntity['Falling Stone'/48348, l='ServerLevel[world]', x=1075.50, y=27.00, z=27.50]
+[24Jan2025 02:45:24.731] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 1077 31 31 VisualFallingBlockEntity['Falling Stone'/48392, l='ServerLevel[world]', x=1077.50, y=28.00, z=31.50]
+[24Jan2025 02:46:01.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Laudin114]
+[24Jan2025 02:46:21.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [No Longer Short-Staffed]
+[24Jan2025 02:46:42.779] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:granite} 1078 48 48 VisualFallingBlockEntity['Falling Granite'/48613, l='ServerLevel[world]', x=1078.50, y=26.00, z=48.50]
+[24Jan2025 02:46:47.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Lcdo_Patino]
+[24Jan2025 02:46:48.180] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:granite} 1075 53 53 VisualFallingBlockEntity['Falling Granite'/48657, l='ServerLevel[world]', x=1075.50, y=26.00, z=53.50]
+[24Jan2025 02:47:33.749] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating

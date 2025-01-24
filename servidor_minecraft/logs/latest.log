@@ -1639,3 +1639,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Jan2025 02:33:09.466] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [24Jan2025 02:33:09.466] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [24Jan2025 02:34:50.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Laudin114: Teleported Laudin114 to Lcdo_Patino]
+[24Jan2025 02:38:09.453] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[24Jan2025 02:38:09.453] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[24Jan2025 02:42:11.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [A Flaming Sword]
+[24Jan2025 02:43:09.461] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[24Jan2025 02:43:09.462] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[24Jan2025 02:46:01.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Laudin114]
+[24Jan2025 02:46:21.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [No Longer Short-Staffed]
+[24Jan2025 02:46:47.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Lcdo_Patino]
