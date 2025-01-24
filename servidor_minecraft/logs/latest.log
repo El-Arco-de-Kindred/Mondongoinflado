@@ -2373,3 +2373,8 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [24Jan2025 19:13:13.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Laudin114: Teleported Laudin114 to Lcdo_Patino]
 [24Jan2025 19:14:23.762] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [24Jan2025 19:14:23.762] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[24Jan2025 19:19:23.765] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[24Jan2025 19:19:23.766] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[24Jan2025 19:23:46.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Laudin114: Teleported Laudin114 to 4681.500000, 63.000000, 3514.500000]
+[24Jan2025 19:24:23.767] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[24Jan2025 19:24:23.768] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
