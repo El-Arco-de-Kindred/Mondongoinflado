@@ -8731,6 +8731,54 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-01-23 01:59:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/cherry_branch_from_cherry_log": {
+    "criteria": {
+      "has_log": "2025-01-23 01:59:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-01-23 01:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-01-23 01:59:17 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ancient_civilizations": {
+    "criteria": {
+      "entered_jungle_monument": "2025-01-23 02:05:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_sticky_piston": "2025-01-23 02:06:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-01-23 02:06:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_amphithere": {
+    "criteria": {
+      "tame_rat": "2025-01-23 02:13:47 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
       "log_spam_fixer": "2025-01-23 03:02:15 +0000"
@@ -8802,54 +8850,6 @@
       "log_spam_fixer": "2025-01-23 03:02:15 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2025-01-23 01:59:17 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/cherry_branch_from_cherry_log": {
-    "criteria": {
-      "has_log": "2025-01-23 01:59:17 +0000"
-    },
-    "done": true
-  },
-  "dungeons_enhanced:ancient_civilizations": {
-    "criteria": {
-      "entered_jungle_monument": "2025-01-23 02:05:51 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/soap/piston": {
-    "criteria": {
-      "has_sticky_piston": "2025-01-23 02:06:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/tame_amphithere": {
-    "criteria": {
-      "tame_rat": "2025-01-23 02:13:47 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/sc_manual": {
-    "criteria": {
-      "has_wood": "2025-01-23 01:59:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2025-01-23 02:06:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_wood": {
-    "criteria": {
-      "has_log": "2025-01-23 01:59:17 +0000"
-    },
-    "done": true
   },
   "DataVersion": 3465
 }
