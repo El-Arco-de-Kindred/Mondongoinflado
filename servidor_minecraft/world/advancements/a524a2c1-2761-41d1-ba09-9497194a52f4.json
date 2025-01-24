@@ -350,6 +350,7 @@
       "muddy_river": "2025-01-24 03:26:44 +0000",
       "prismachasm": "2025-01-24 02:55:56 +0000",
       "willow_forest": "2025-01-09 04:00:51 +0000",
+      "frozen_tundra": "2025-01-24 17:40:07 +0000",
       "barley_fields": "2025-01-10 02:40:39 +0000",
       "rocky_reef": "2025-01-10 03:39:52 +0000",
       "redstone_caves": "2025-01-09 19:15:14 +0000",
@@ -395,6 +396,7 @@
       "autumnal_maple_forest": "2025-01-24 03:26:18 +0000",
       "muddy_river": "2025-01-24 03:26:44 +0000",
       "willow_forest": "2025-01-09 04:00:51 +0000",
+      "frozen_tundra": "2025-01-24 17:40:07 +0000",
       "barley_fields": "2025-01-10 02:40:39 +0000",
       "rocky_reef": "2025-01-10 03:39:52 +0000",
       "grassy_beach": "2025-01-09 02:47:02 +0000",
@@ -9516,79 +9518,109 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 17:28:42 +0000"
+      "log_spam_fixer": "2025-01-24 17:43:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 17:28:42 +0000"
+      "log_spam_fixer": "2025-01-24 17:43:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 17:28:42 +0000"
+      "log_spam_fixer": "2025-01-24 17:43:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 17:28:42 +0000"
+      "log_spam_fixer": "2025-01-24 17:43:46 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 17:28:42 +0000"
+      "log_spam_fixer": "2025-01-24 17:43:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 17:28:42 +0000"
+      "log_spam_fixer": "2025-01-24 17:43:46 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 17:28:42 +0000"
+      "log_spam_fixer": "2025-01-24 17:43:46 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 17:28:42 +0000"
+      "log_spam_fixer": "2025-01-24 17:43:46 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 17:28:42 +0000"
+      "log_spam_fixer": "2025-01-24 17:43:46 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 17:28:42 +0000"
+      "log_spam_fixer": "2025-01-24 17:43:46 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 17:28:42 +0000"
+      "log_spam_fixer": "2025-01-24 17:43:46 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-24 17:28:42 +0000"
+      "log_spam_fixer": "2025-01-24 17:43:46 +0000"
     },
     "done": false
   },
   "iceandfire:iceandfire/use_tide_trident": {
     "criteria": {
       "shot_arrow": "2025-01-24 17:08:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
+    "criteria": {
+      "has_item": "2025-01-24 17:40:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
+    "criteria": {
+      "has_item": "2025-01-24 17:40:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-24 17:40:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
+    "criteria": {
+      "has_dragonscales_sapphire": "2025-01-24 17:40:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+    "criteria": {
+      "has_item": "2025-01-24 17:40:57 +0000"
     },
     "done": true
   },
@@ -9603,6 +9635,12 @@
       "trickor_treat_7": "2025-01-24 17:13:18 +0000"
     },
     "done": false
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2025-01-24 17:32:32 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
