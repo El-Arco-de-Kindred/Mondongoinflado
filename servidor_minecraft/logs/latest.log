@@ -1503,3 +1503,40 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Jan2025 01:33:59.624] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/mechanicalArm/ArmBlockEntity$SelectionMode
 [24Jan2025 01:34:24.671] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
 [24Jan2025 01:34:40.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has made the advancement [Mossy Mounds]
+[24Jan2025 01:37:04.840] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[24Jan2025 01:37:04.841] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[24Jan2025 01:38:11.681] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Heriberto'/4905, l='ServerLevel[world]', x=-6616.52, y=72.78, z=5455.01] died, message: 'Heriberto was slain by The Hunter'
+[24Jan2025 01:38:11.682] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Heriberto'/4905, l='ServerLevel[world]', x=-6616.52, y=72.78, z=5455.01] died: Heriberto was slain by The Hunter
+[24Jan2025 01:38:14.506] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/OnIsPoweredResult
+[24Jan2025 01:38:32.149] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Tommie'/4840, l='ServerLevel[world]', x=-6657.71, y=72.00, z=5410.27] died, message: 'Tommie was slain by The Moonflower'
+[24Jan2025 01:38:32.149] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Tommie'/4840, l='ServerLevel[world]', x=-6657.71, y=72.00, z=5410.27] died: Tommie was slain by The Moonflower
+[24Jan2025 01:38:39.368] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity$AnimationStatus
+[24Jan2025 01:39:10.590] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[24Jan2025 01:39:47.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Laudin114: Teleported Laudin114 to Lcdo_Patino]
+[24Jan2025 01:40:51.761] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[24Jan2025 01:41:21.978] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[24Jan2025 01:42:04.886] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[24Jan2025 01:42:04.887] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[24Jan2025 01:42:07.395] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/witch/darkart/DarkArtWitchGoal$Phase
+[24Jan2025 01:42:31.207] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[24Jan2025 01:42:33.794] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Corrine'/4910, l='ServerLevel[world]', x=-6607.81, y=74.54, z=5403.76] died, message: 'Corrine was slain by Zombie'
+[24Jan2025 01:42:40.729] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Laurene'/4911, l='ServerLevel[world]', x=-6620.55, y=70.38, z=5403.75] died, message: 'Laurene was slain by Zombie'
+[24Jan2025 01:42:48.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2151ms or 43 ticks behind
+[24Jan2025 01:43:06.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3011ms or 60 ticks behind
+[24Jan2025 01:43:24.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3287ms or 65 ticks behind
+[24Jan2025 01:43:42.998] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3399ms or 67 ticks behind
+[24Jan2025 01:44:00.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2425ms or 48 ticks behind
+[24Jan2025 01:44:18.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[24Jan2025 01:44:32.675] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[24Jan2025 01:44:35.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[24Jan2025 01:44:54.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[24Jan2025 01:44:56.170] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[24Jan2025 01:45:16.512] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[24Jan2025 01:45:46.052] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[24Jan2025 01:46:05.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Laudin114) moved wrongly! 0.2770925857698785
+[24Jan2025 01:46:05.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Laudin114) moved wrongly! 0.7040778569403301
+[24Jan2025 01:46:05.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Laudin114) moved wrongly! 1.212076608154348
+[24Jan2025 01:46:09.327] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[24Jan2025 01:46:10.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Laudin114) moved wrongly! 0.2547259615016628
+[24Jan2025 01:46:10.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Laudin114) moved wrongly! 0.6786088410663151
+[24Jan2025 01:46:10.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of Laudin114) moved wrongly! 1.2747217933742452
