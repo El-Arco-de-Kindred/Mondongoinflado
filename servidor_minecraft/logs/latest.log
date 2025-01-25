@@ -1765,3 +1765,9 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [25Jan2025 03:48:16.094] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
 [25Jan2025 03:50:32.271] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [25Jan2025 03:50:32.271] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[25Jan2025 03:52:42.133] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SadduranGT lost connection: Disconnected
+[25Jan2025 03:52:42.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT left the game
+[25Jan2025 03:55:32.260] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[25Jan2025 03:55:32.260] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[25Jan2025 04:00:32.257] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[25Jan2025 04:00:32.258] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
