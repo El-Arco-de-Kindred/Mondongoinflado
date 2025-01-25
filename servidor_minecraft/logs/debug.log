@@ -12390,3 +12390,114 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [25Jan2025 03:08:38.661] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [25Jan2025 03:09:07.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 has reached the goal [Senior Summoner]
 [25Jan2025 03:09:32.225] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[25Jan2025 03:10:32.367] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[25Jan2025 03:10:32.368] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[25Jan2025 03:10:32.368] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[25Jan2025 03:10:32.400] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jan2025 03:10:32.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jan2025 03:10:51.166] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[25Jan2025 03:11:43.730] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[25Jan2025 03:11:43.730] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[25Jan2025 03:11:55.813] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[25Jan2025 03:11:55.813] [IO-Worker-55/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[25Jan2025 03:12:57.799] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[25Jan2025 03:13:00.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Laudin114: Teleported Laudin114 to Lcdo_Patino]
+[25Jan2025 03:13:37.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SadduranGT: Teleported SadduranGT to 3880.000000, 193.000000, 4022.000000]
+[25Jan2025 03:13:49.486] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[25Jan2025 03:14:18.099] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Selena'/39431, l='ServerLevel[world]', x=3911.35, y=175.92, z=4012.91] died, message: 'Selena was slain by The Bruin'
+[25Jan2025 03:14:18.099] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Selena'/39431, l='ServerLevel[world]', x=3911.35, y=175.92, z=4012.91] died: Selena was slain by The Bruin
+[25Jan2025 03:14:20.907] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Betsy'/39432, l='ServerLevel[world]', x=3911.64, y=173.75, z=4008.45] died, message: 'Betsy was squashed by a falling anvil'
+[25Jan2025 03:14:20.907] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Betsy'/39432, l='ServerLevel[world]', x=3911.64, y=173.75, z=4008.45] died: Betsy was squashed by a falling anvil
+[25Jan2025 03:14:22.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to SadduranGT]
+[25Jan2025 03:14:26.286] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/utility/TreeCutter$SearchDirection
+[25Jan2025 03:14:56.785] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[25Jan2025 03:14:56.845] [IO-Worker-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[25Jan2025 03:14:58.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to SadduranGT]
+[25Jan2025 03:15:02.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SadduranGT: Teleported SadduranGT to Laudin114]
+[25Jan2025 03:15:09.910] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[25Jan2025 03:15:21.547] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[25Jan2025 03:15:25.290] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Dirk'/39500, l='ServerLevel[world]', x=3886.30, y=170.00, z=4096.36] died, message: 'Dirk was slain by The Rod'
+[25Jan2025 03:15:25.291] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Dirk'/39500, l='ServerLevel[world]', x=3886.30, y=170.00, z=4096.36] died: Dirk was slain by The Rod
+[25Jan2025 03:15:28.640] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Chantell'/39528, l='ServerLevel[world]', x=3883.89, y=167.00, z=4103.71] died, message: 'Chantell was slain by The Rod'
+[25Jan2025 03:15:28.641] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Chantell'/39528, l='ServerLevel[world]', x=3883.89, y=167.00, z=4103.71] died: Chantell was slain by The Rod
+[25Jan2025 03:15:32.304] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[25Jan2025 03:15:32.304] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[25Jan2025 03:15:32.304] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[25Jan2025 03:15:32.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jan2025 03:15:32.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jan2025 03:15:35.305] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Lashunda'/39423, l='ServerLevel[world]', x=3886.47, y=170.00, z=4000.08] died, message: 'Lashunda was squashed by a falling anvil'
+[25Jan2025 03:15:35.305] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Lashunda'/39423, l='ServerLevel[world]', x=3886.47, y=170.00, z=4000.08] died: Lashunda was squashed by a falling anvil
+[25Jan2025 03:15:51.166] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[25Jan2025 03:15:54.870] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[25Jan2025 03:15:58.257] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/inventory/sorter/SortType$Type
+[25Jan2025 03:16:22.885] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Lacy'/39515, l='ServerLevel[world]', x=3782.03, y=169.00, z=4055.46] died, message: 'Lacy died whilst trying to escape The Spitter'
+[25Jan2025 03:16:22.885] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Lacy'/39515, l='ServerLevel[world]', x=3782.03, y=169.00, z=4055.46] died: Lacy died whilst trying to escape The Spitter
+[25Jan2025 03:16:31.159] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[25Jan2025 03:16:36.090] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [364b6042-d5db-471d-ac45-07f39d804bb6]
+[25Jan2025 03:16:48.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Laudin114: Teleported Laudin114 to SadduranGT]
+[25Jan2025 03:16:59.189] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[25Jan2025 03:17:15.032] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cameron'/39518, l='ServerLevel[world]', x=3787.95, y=162.25, z=4040.55] died, message: 'Cameron died whilst trying to escape Zombie'
+[25Jan2025 03:17:26.879] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Gerald'/39504, l='ServerLevel[world]', x=3788.65, y=163.77, z=4052.64] died, message: 'Gerald died whilst trying to escape The Spitter'
+[25Jan2025 03:17:51.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Lcdo_Patino]
+[25Jan2025 03:17:52.036] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[25Jan2025 03:17:52.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Airship Village]
+[25Jan2025 03:17:55.032] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Kaleigh'/39521, l='ServerLevel[world]', x=3792.52, y=170.00, z=4058.65] died, message: 'Kaleigh was slain by Zombie'
+[25Jan2025 03:18:19.598] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/moonlight/api/entity/ImprovedProjectileEntity$ColliderType
+[25Jan2025 03:18:32.234] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Ezequiel'/39498, l='ServerLevel[world]', x=3878.70, y=162.00, z=4105.52] died, message: 'Ezequiel was slain by Sucker'
+[25Jan2025 03:18:32.234] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Ezequiel'/39498, l='ServerLevel[world]', x=3878.70, y=162.00, z=4105.52] died: Ezequiel was slain by Sucker
+[25Jan2025 03:18:35.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Laudin114: Teleported Laudin114 to SadduranGT]
+[25Jan2025 03:18:57.933] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cyrus'/39455, l='ServerLevel[world]', x=3834.79, y=172.00, z=4035.56] died, message: 'Cyrus was slain by Sucker'
+[25Jan2025 03:18:57.933] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Cyrus'/39455, l='ServerLevel[world]', x=3834.79, y=172.00, z=4035.56] died: Cyrus was slain by Sucker
+[25Jan2025 03:19:11.239] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[25Jan2025 03:20:05.852] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[25Jan2025 03:20:05.880] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[25Jan2025 03:20:11.050] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity$AnimationStatus
+[25Jan2025 03:20:32.282] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[25Jan2025 03:20:32.282] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[25Jan2025 03:20:32.282] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[25Jan2025 03:20:32.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jan2025 03:20:32.323] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jan2025 03:20:45.577] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Warren'/39484, l='ServerLevel[world]', x=3822.70, y=68.00, z=4057.36] died, message: 'Warren hit the ground too hard'
+[25Jan2025 03:20:45.577] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Warren'/39484, l='ServerLevel[world]', x=3822.70, y=68.00, z=4057.36] died: Warren fell from a high place
+[25Jan2025 03:20:51.166] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[25Jan2025 03:21:15.938] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Cameron'/42998, l='ServerLevel[world]', x=3795.08, y=167.00, z=4044.39] died: Cameron was killed by Hikejace using magic
+[25Jan2025 03:21:40.785] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Torie'/39567, l='ServerLevel[world]', x=3756.76, y=168.00, z=4045.32] died, message: 'Torie was slain by Sucker'
+[25Jan2025 03:21:40.786] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Torie'/39567, l='ServerLevel[world]', x=3756.76, y=168.00, z=4045.32] died: Torie was slain by Sucker
+[25Jan2025 03:21:43.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 stood in SadduranGT's dragon breath
+[25Jan2025 03:21:43.093] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Laudin114 with unique ID travelersbackpack.standard_25.01.2025-03.21.43.dat
+[25Jan2025 03:21:51.418] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[25Jan2025 03:21:54.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Laudin114: Teleported Laudin114 to SadduranGT]
+[25Jan2025 03:22:36.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 was slain by Dread Scuttler
+[25Jan2025 03:22:42.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Laudin114: Teleported Laudin114 to SadduranGT]
+[25Jan2025 03:22:52.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114's atoms were crushed in SadduranGT's black hole
+[25Jan2025 03:22:58.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Laudin114: Teleported Laudin114 to SadduranGT]
+[25Jan2025 03:24:17.815] [ForkJoinPool.commonPool-worker-9/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[25Jan2025 03:24:23.113] [IO-Worker-65/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[25Jan2025 03:25:06.010] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[25Jan2025 03:25:06.010] [IO-Worker-65/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[25Jan2025 03:25:32.480] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[25Jan2025 03:25:32.480] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[25Jan2025 03:25:32.481] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[25Jan2025 03:25:32.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jan2025 03:25:32.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jan2025 03:25:47.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Lcdo_Patino]
+[25Jan2025 03:25:51.166] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[25Jan2025 03:26:46.969] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[25Jan2025 03:26:47.683] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [a6f50094-2da5-4567-908f-4b299b7c5b76]
+[25Jan2025 03:27:04.025] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Ehtel'/39516, l='ServerLevel[world]', x=3779.50, y=167.00, z=4041.93] died, message: 'Ehtel was slain by The Hunter'
+[25Jan2025 03:27:04.025] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Ehtel'/39516, l='ServerLevel[world]', x=3779.50, y=167.00, z=4041.93] died: Ehtel was slain by The Hunter
+[25Jan2025 03:28:00.334] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Gino'/39421, l='ServerLevel[world]', x=3876.70, y=163.56, z=3997.50] died, message: 'Gino burned to death'
+[25Jan2025 03:28:00.335] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Gino'/39421, l='ServerLevel[world]', x=3876.70, y=163.56, z=3997.50] died: Gino burned to death
+[25Jan2025 03:28:01.212] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[25Jan2025 03:28:01.212] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[25Jan2025 03:28:01.212] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[25Jan2025 03:28:01.213] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[25Jan2025 03:28:16.817] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [a6f50094-2da5-4567-908f-4b299b7c5b76]
+[25Jan2025 03:29:24.607] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [768b49ac-b053-4e99-8a2f-0f4eb5816077]
+[25Jan2025 03:30:32.290] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[25Jan2025 03:30:32.290] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[25Jan2025 03:30:32.290] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[25Jan2025 03:30:32.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jan2025 03:30:32.325] [IO-Worker-73/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[25Jan2025 03:30:32.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jan2025 03:30:51.166] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
