@@ -1842,3 +1842,20 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [25Jan2025 04:26:11.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Laudin114: Teleported Laudin114 to Hikejace]
 [25Jan2025 04:30:39.619] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [25Jan2025 04:30:39.619] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[25Jan2025 04:33:32.143] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Laudin114 lost connection: Disconnected
+[25Jan2025 04:33:32.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 left the game
+[25Jan2025 04:33:52.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hikejace lost connection: Disconnected
+[25Jan2025 04:33:52.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace left the game
+[25Jan2025 04:33:57.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[25Jan2025 04:33:57.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Jan2025 04:33:57.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Jan2025 04:33:57.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Jan2025 04:33:58.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Jan2025 04:33:58.084] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[25Jan2025 04:33:58.084] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[25Jan2025 04:33:58.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Jan2025 04:33:58.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Jan2025 04:33:58.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Jan2025 04:33:58.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Jan2025 04:33:58.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Jan2025 04:33:58.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
