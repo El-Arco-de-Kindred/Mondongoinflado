@@ -12501,3 +12501,33 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [25Jan2025 03:30:32.325] [IO-Worker-73/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
 [25Jan2025 03:30:32.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25Jan2025 03:30:51.166] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[25Jan2025 03:33:39.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Laudin114: Teleported Lcdo_Patino to Laudin114]
+[25Jan2025 03:33:42.430] [IO-Worker-70/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[25Jan2025 03:35:32.294] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[25Jan2025 03:35:32.294] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[25Jan2025 03:35:32.294] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[25Jan2025 03:35:32.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jan2025 03:35:32.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jan2025 03:35:32.771] [IO-Worker-70/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[25Jan2025 03:35:51.166] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[25Jan2025 03:36:43.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Laudin114: Teleported Lcdo_Patino to Laudin114]
+[25Jan2025 03:37:50.598] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[25Jan2025 03:37:54.522] [IO-Worker-70/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[25Jan2025 03:37:54.525] [IO-Worker-76/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[25Jan2025 03:37:55.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SadduranGT: Teleported SadduranGT to Laudin114]
+[25Jan2025 03:38:02.029] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Aldo'/39527, l='ServerLevel[world]', x=3914.64, y=64.00, z=4115.99] died, message: 'Aldo hit the ground too hard whilst trying to escape Sucker'
+[25Jan2025 03:38:02.029] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Aldo'/39527, l='ServerLevel[world]', x=3914.64, y=64.00, z=4115.99] died: Aldo was doomed to fall by Sucker
+[25Jan2025 03:38:31.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lcdo_Patino lost connection: Disconnected
+[25Jan2025 03:38:31.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino left the game
+[25Jan2025 03:38:47.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Hikejace> con el create
+[25Jan2025 03:38:57.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Hikejace> segurity craft digo
+[25Jan2025 03:39:10.118] [IO-Worker-78/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[25Jan2025 03:40:16.402] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/fluids/potion/PotionFluid$BottleType
+[25Jan2025 03:40:32.275] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[25Jan2025 03:40:32.275] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[25Jan2025 03:40:32.275] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[25Jan2025 03:40:32.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jan2025 03:40:32.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jan2025 03:40:40.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Laudin114]
+[25Jan2025 03:40:41.192] [IO-Worker-79/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[25Jan2025 03:40:51.166] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
