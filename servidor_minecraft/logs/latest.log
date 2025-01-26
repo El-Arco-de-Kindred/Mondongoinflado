@@ -1495,3 +1495,16 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [26Jan2025 01:08:56.954] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [26Jan2025 01:12:53.641] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hikejace lost connection: Disconnected
 [26Jan2025 01:12:53.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace left the game
+[26Jan2025 01:13:56.939] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[26Jan2025 01:13:56.940] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[26Jan2025 01:15:20.735] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mrh0/createaddition/energy/WireConnectResult
+[26Jan2025 01:15:26.733] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mrh0/createaddition/blocks/connector/ConnectorType
+[26Jan2025 01:16:23.607] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Hikejace is daa697e4-374d-4652-a2ef-5b7ad56a67fc
+[26Jan2025 01:16:25.550] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hikejace[/100.74.20.112:56173] logged in with entity id 10496 at (1187.839270224172, 70.0, 53.259380573207906)
+[26Jan2025 01:16:25.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace joined the game
+[26Jan2025 01:16:25.667] [Server thread/INFO] [Jade/]: Syncing config to Hikejace (daa697e4-374d-4652-a2ef-5b7ad56a67fc)
+[26Jan2025 01:16:48.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Fortune Seeker]
+[26Jan2025 01:16:50.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Need A Map?]
+[26Jan2025 01:18:56.957] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[26Jan2025 01:18:56.957] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[26Jan2025 01:19:05.259] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
