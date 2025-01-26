@@ -1540,3 +1540,64 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [26Jan2025 01:39:09.817] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
 [26Jan2025 01:39:50.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [Another Brick in the Wall]
 [26Jan2025 01:41:45.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SadduranGT: Teleported SadduranGT to Hikejace]
+[26Jan2025 01:43:49.610] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[26Jan2025 01:44:05.757] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[26Jan2025 01:44:05.758] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[26Jan2025 01:44:16.349] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SadduranGT lost connection: Timed out
+[26Jan2025 01:44:16.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT left the game
+[26Jan2025 01:44:19.068] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player SadduranGT is 0942ccad-b410-43b2-b725-938a1e629871
+[26Jan2025 01:44:28.794] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SadduranGT[/100.88.227.94:55410] logged in with entity id 18237 at (1203.439096083873, 76.0, 31.74928018597498)
+[26Jan2025 01:44:28.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT joined the game
+[26Jan2025 01:44:28.925] [Server thread/INFO] [Jade/]: Syncing config to SadduranGT (0942ccad-b410-43b2-b725-938a1e629871)
+[26Jan2025 01:45:43.733] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@7ccc99fa]Trying to start horde event on day 104 with nextDay 104 and time 15000
+[26Jan2025 01:45:43.746] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@3eb8af53
+[26Jan2025 01:45:43.747] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 96
+[26Jan2025 01:45:43.747] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 96
+[26Jan2025 01:45:43.747] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 96
+[26Jan2025 01:45:43.747] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 96
+[26Jan2025 01:45:43.780] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 104
+[26Jan2025 01:45:43.781] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 104
+[26Jan2025 01:45:43.781] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 104
+[26Jan2025 01:45:43.781] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 104
+[26Jan2025 01:46:57.708] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SadduranGT lost connection: Disconnected
+[26Jan2025 01:46:57.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT left the game
+[26Jan2025 01:47:23.780] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 104
+[26Jan2025 01:47:23.780] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 104
+[26Jan2025 01:47:23.780] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 104
+[26Jan2025 01:47:23.781] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{AbsorptionAmount:0.0f,Age:0,ArmorDropChances:[0.085f,0.085f,0.085f,0.085f],ArmorItems:[{},{},{},{}],Attributes:[{Base:0.8003258873146215d,Name:"minecraft:horse.jump_strength"},{Base:35.0d,Modifiers:[{Amount:0.037846002211029114d,Name:"Random spawn bonus",Operation:1,UUID:[I;-802706234,2021411889,-2080425346,779371511]}],Name:"minecraft:generic.follow_range"}],Brain:{memories:{}},Bred:0b,CanPickUpLoot:0b,CitadelData:{},ConversionTime:-1,DeathTime:0s,EatingHaystack:0b,FallFlying:0b,ForcedAge:0,HandDropChances:[0.085f,0.085f],HandItems:[{},{}],Health:15.0f,HurtByTimestamp:0,HurtTime:0s,InLove:0,LeftHanded:0b,Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],PersistenceRequired:0b,Tame:0b,Temper:0,id:"minecraft:zombie_horse"}} to hordespawn on day 104
+[26Jan2025 01:47:42.231] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/mobs/fisher/FishingHook$FishHookState
+[26Jan2025 01:48:51.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Hikejace to Lcdo_Patino]
+[26Jan2025 01:49:03.780] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 104
+[26Jan2025 01:49:03.780] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 104
+[26Jan2025 01:49:03.780] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 104
+[26Jan2025 01:49:03.780] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{AbsorptionAmount:0.0f,Age:0,ArmorDropChances:[0.085f,0.085f,0.085f,0.085f],ArmorItems:[{},{},{},{}],Attributes:[{Base:0.7700456617875175d,Name:"minecraft:horse.jump_strength"},{Base:35.0d,Modifiers:[{Amount:0.036248726698883335d,Name:"Random spawn bonus",Operation:1,UUID:[I;-2010254174,1775127523,-1290252060,2020878030]}],Name:"minecraft:generic.follow_range"}],Brain:{memories:{}},Bred:0b,CanPickUpLoot:0b,CitadelData:{},ConversionTime:-1,DeathTime:0s,EatingHaystack:0b,FallFlying:0b,ForcedAge:0,HandDropChances:[0.085f,0.085f],HandItems:[{},{}],Health:15.0f,HurtByTimestamp:0,HurtTime:0s,InLove:0,LeftHanded:0b,Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],PersistenceRequired:0b,Tame:0b,Temper:0,id:"minecraft:zombie_horse"}} to hordespawn on day 104
+[26Jan2025 01:49:03.793] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@7ccc99fa]Can't spawn wave because max cap has been reached
+[26Jan2025 01:49:05.760] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[26Jan2025 01:49:05.760] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[26Jan2025 01:49:06.023] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[26Jan2025 01:49:18.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Hikejace to Lcdo_Patino]
+[26Jan2025 01:49:24.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Lcdo_Patino]
+[26Jan2025 01:49:25.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Hikejace to Lcdo_Patino]
+[26Jan2025 01:49:45.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to 1190.500000, 83.000000, 5.500000]
+[26Jan2025 01:49:56.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Lcdo_Patino]
+[26Jan2025 01:50:03.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino fell from a high place
+[26Jan2025 01:50:03.898] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Lcdo_Patino with unique ID travelersbackpack.spider_26.01.2025-01.50.03.dat
+[26Jan2025 01:50:10.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Lcdo_Patino to Hikejace]
+[26Jan2025 01:50:14.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to Hikejace]
+[26Jan2025 01:50:20.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace was doomed to fall by Drowned
+[26Jan2025 01:50:20.244] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Hikejace with unique ID travelersbackpack.iron_golem_26.01.2025-01.50.20.dat
+[26Jan2025 01:50:36.720] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity FarlanderEntity['Quincy'/20521, l='ServerLevel[world]', x=-6648.46, y=64.00, z=5167.93] died: Quincy was slain by Rebel Farlander
+[26Jan2025 01:50:37.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Lcdo_Patino]
+[26Jan2025 01:50:38.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[26Jan2025 01:50:45.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [One with Nature]
+[26Jan2025 01:52:18.565] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[26Jan2025 01:53:11.270] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player SadduranGT is 0942ccad-b410-43b2-b725-938a1e629871
+[26Jan2025 01:53:15.946] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SadduranGT[/100.88.227.94:55534] logged in with entity id 22314 at (1199.4231122087488, 76.0, 31.431206863570743)
+[26Jan2025 01:53:15.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT joined the game
+[26Jan2025 01:53:16.016] [Server thread/INFO] [Jade/]: Syncing config to SadduranGT (0942ccad-b410-43b2-b725-938a1e629871)
+[26Jan2025 01:54:07.777] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[26Jan2025 01:54:07.777] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[26Jan2025 01:59:07.780] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[26Jan2025 01:59:07.780] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[26Jan2025 02:04:07.768] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[26Jan2025 02:04:07.768] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
