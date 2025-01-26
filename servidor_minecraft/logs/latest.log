@@ -1519,3 +1519,24 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [26Jan2025 01:29:05.942] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [26Jan2025 01:29:37.209] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/OnIsPoweredResult
 [26Jan2025 01:30:50.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Cover Me In Emeralds]
+[26Jan2025 01:34:05.764] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[26Jan2025 01:34:05.764] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[26Jan2025 01:34:36.279] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player SadduranGT is 0942ccad-b410-43b2-b725-938a1e629871
+[26Jan2025 01:34:38.300] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SadduranGT[/100.88.227.94:55369] logged in with entity id 14778 at (1202.639319780334, 76.0, 31.734076121245252)
+[26Jan2025 01:34:38.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT joined the game
+[26Jan2025 01:34:38.414] [Server thread/INFO] [Jade/]: Syncing config to SadduranGT (0942ccad-b410-43b2-b725-938a1e629871)
+[26Jan2025 01:37:13.335] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting top/theillusivec4/caelus/api/CaelusApi$TriState
+[26Jan2025 01:37:56.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SadduranGT: Teleported SadduranGT to Lcdo_Patino]
+[26Jan2025 01:38:28.041] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/decoration/slidingDoor/DoorControl
+[26Jan2025 01:38:47.646] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[26Jan2025 01:38:56.167] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[26Jan2025 01:38:58.941] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[26Jan2025 01:39:05.719] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/block/tiles/PedestalBlockTile$DisplayType
+[26Jan2025 01:39:06.303] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[26Jan2025 01:39:06.304] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[26Jan2025 01:39:06.773] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[26Jan2025 01:39:06.805] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/illager/shoot/EAPillagerAttackGoal$CrossbowState
+[26Jan2025 01:39:06.905] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[26Jan2025 01:39:09.817] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[26Jan2025 01:39:50.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SadduranGT has made the advancement [Another Brick in the Wall]
+[26Jan2025 01:41:45.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SadduranGT: Teleported SadduranGT to Hikejace]
