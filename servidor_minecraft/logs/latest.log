@@ -1570,3 +1570,7 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [27Jan2025 02:51:31.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino left the game
 [27Jan2025 02:54:47.787] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [27Jan2025 02:54:47.787] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[27Jan2025 02:59:47.787] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[27Jan2025 02:59:47.787] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[27Jan2025 03:04:47.787] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[27Jan2025 03:04:47.787] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
