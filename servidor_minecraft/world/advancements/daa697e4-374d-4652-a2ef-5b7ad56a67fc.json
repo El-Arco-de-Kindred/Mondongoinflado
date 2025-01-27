@@ -11452,78 +11452,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 02:03:31 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 02:03:31 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 02:03:31 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 02:03:31 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 02:03:31 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 02:03:31 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 02:03:31 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 02:03:31 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 02:03:31 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 02:03:31 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 02:03:31 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-26 02:03:31 +0000"
-    },
-    "done": false
-  },
   "handcrafted:recipes/misc/terracotta_thin_pot": {
     "criteria": {
       "has_terracotta_thin_pot": "2025-01-26 01:12:40 +0000"
@@ -11662,6 +11590,24 @@
     },
     "done": true
   },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2025-01-26 01:16:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-01-26 01:16:48 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-01-26 01:16:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-26 01:16:59 +0000"
@@ -11698,21 +11644,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
-    "criteria": {
-      "has_red_sandstone": "2025-01-26 01:30:05 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-01-26 01:16:59 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/cactus": {
-    "criteria": {
-      "has_cactus": "2025-01-26 01:30:03 +0000"
     },
     "done": true
   },
@@ -11731,6 +11665,276 @@
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-01-26 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/food/barley_smelting": {
+    "criteria": {
+      "has_barley": "2025-01-26 01:17:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/food/barley_smoking": {
+    "criteria": {
+      "has_barley": "2025-01-26 01:17:01 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cactus": {
+    "criteria": {
+      "has_cactus": "2025-01-26 01:30:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-01-26 01:30:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_chiseled_red_sandstone": "2025-01-26 01:30:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-01-26 01:30:05 +0000"
     },
     "done": true
   },
@@ -11758,93 +11962,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_candle": {
-    "criteria": {
-      "has_green_dye": "2025-01-26 01:30:49 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lime_dye": {
-    "criteria": {
-      "has_green_dye": "2025-01-26 01:30:49 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/food/barley_smelting": {
-    "criteria": {
-      "has_barley": "2025-01-26 01:17:01 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/red_sandstone_corner_trim": {
     "criteria": {
       "has_red_sandstone_corner_trim": "2025-01-26 01:30:05 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_glass": {
-    "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_glass": {
-    "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_glass": {
-    "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/old_eye": {
-    "criteria": {
-      "old_eye": "2025-01-26 01:16:48 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_glass": {
-    "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
     },
     "done": true
   },
@@ -11854,39 +11974,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/red_sandstone_pillar_trim": {
     "criteria": {
       "has_red_sandstone_pillar_trim": "2025-01-26 01:30:05 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_glass": {
-    "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/food/barley_smoking": {
-    "criteria": {
-      "has_barley": "2025-01-26 01:17:01 +0000"
     },
     "done": true
   },
@@ -11896,21 +11986,51 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_green_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-01-26 01:30:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_sandstone_wall": {
     "criteria": {
       "has_red_sandstone": "2025-01-26 01:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-01-26 01:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-01-26 01:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-26 01:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-01-26 01:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-01-26 01:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-26 01:30:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-01-26 01:30:06 +0000"
     },
     "done": true
   },
@@ -11920,27 +12040,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_green_wool": {
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-01-26 01:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2025-01-26 01:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2025-01-26 01:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
     "criteria": {
       "has_needed_dye": "2025-01-26 01:30:49 +0000"
     },
     "done": true
   },
-  "endrem:main/lost_eye": {
+  "minecraft:recipes/building_blocks/dye_green_wool": {
     "criteria": {
-      "lost_eye": "2025-01-26 01:16:50 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_glass": {
-    "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
+      "has_needed_dye": "2025-01-26 01:30:49 +0000"
     },
     "done": true
   },
@@ -11962,98 +12088,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-01-26 01:30:06 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass_pane_from_glass": {
-    "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_glazed_terracotta": {
-    "criteria": {
-      "has_orange_terracotta": "2025-01-26 01:16:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_glazed_terracotta": {
-    "criteria": {
-      "has_red_terracotta": "2025-01-26 01:30:07 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_glass": {
-    "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:trickor_treat": {
-    "criteria": {
-      "trickor_treat_0": "2025-01-26 01:33:47 +0000",
-      "trickor_treat_2": "2025-01-26 01:33:47 +0000",
-      "trickor_treat_4": "2025-01-26 01:34:01 +0000",
-      "trickor_treat_5": "2025-01-26 01:33:50 +0000",
-      "trickor_treat_6": "2025-01-26 01:33:49 +0000",
-      "trickor_treat_7": "2025-01-26 01:33:49 +0000"
-    },
-    "done": false
-  },
-  "endrem:main/corrupted_eye": {
-    "criteria": {
-      "corrupted_eye": "2025-01-26 01:30:50 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_green_bed": {
     "criteria": {
       "has_needed_dye": "2025-01-26 01:30:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/green_dye": {
-    "criteria": {
-      "has_cactus": "2025-01-26 01:30:03 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
     },
     "done": true
   },
@@ -12063,33 +12100,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+  "endrem:main/corrupted_eye": {
     "criteria": {
-      "has_chiseled_red_sandstone": "2025-01-26 01:30:03 +0000"
+      "corrupted_eye": "2025-01-26 01:30:50 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_glass": {
+  "born_in_chaos_v1:trickor_treat": {
     "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
+      "trickor_treat_0": "2025-01-26 01:33:47 +0000",
+      "trickor_treat_2": "2025-01-26 01:33:47 +0000",
+      "trickor_treat_3": "2025-01-26 02:17:40 +0000",
+      "trickor_treat_4": "2025-01-26 01:34:01 +0000",
+      "trickor_treat_5": "2025-01-26 01:33:50 +0000",
+      "trickor_treat_6": "2025-01-26 01:33:49 +0000",
+      "trickor_treat_7": "2025-01-26 01:33:49 +0000"
     },
-    "done": true
+    "done": false
   },
   "travelersbackpack:recipes/misc/spider_smithing": {
     "criteria": {
       "has_spider": "2025-01-26 01:50:39 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
     },
     "done": true
   },
@@ -12099,107 +12130,353 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+  "iceandfire:recipes/combat/tide_blue_chestplate": {
     "criteria": {
-      "has_dune_armor_trim_smithing_template": "2025-01-26 01:30:06 +0000"
+      "has_item": "2025-01-26 02:08:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
+  "iceandfire:recipes/combat/tide_green_leggings": {
     "criteria": {
-      "has_red_sandstone": "2025-01-26 01:30:05 +0000"
+      "has_item": "2025-01-26 02:08:40 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_dye": {
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
     "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
+      "has_sea_serpent_scales_blue": "2025-01-26 02:08:40 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_glass": {
+  "iceandfire:recipes/combat/tide_blue_leggings": {
     "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
+      "has_item": "2025-01-26 02:08:40 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_glass": {
+  "iceandfire:recipes/combat/tide_blue_boots": {
     "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
+      "has_item": "2025-01-26 02:08:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
+  "iceandfire:recipes/combat/tide_blue_helmet": {
     "criteria": {
-      "has_red_sandstone": "2025-01-26 01:30:05 +0000"
+      "has_item": "2025-01-26 02:08:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_campfire": {
+  "iceandfire:recipes/combat/tide_trident": {
     "criteria": {
-      "has_soul_sand": "2025-01-26 01:30:05 +0000"
+      "has_item": "2025-01-26 02:08:40 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_dye": {
+  "iceandfire:recipes/combat/tide_green_boots": {
     "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
+      "has_item": "2025-01-26 02:08:40 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_dye": {
+  "iceandfire:recipes/combat/tide_green_chestplate": {
     "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
+      "has_item": "2025-01-26 02:08:40 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_dye": {
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
     "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
+      "has_item": "2025-01-26 02:08:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_green_to_sea_serpent_scale_block_green": {
     "criteria": {
-      "has_red_sandstone": "2025-01-26 01:30:05 +0000"
+      "has_sea_serpent_scales_green": "2025-01-26 02:08:40 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass": {
+  "iceandfire:recipes/combat/tide_green_helmet": {
     "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
+      "has_item": "2025-01-26 02:08:40 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_dye": {
+  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
     "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
+      "has_item": "2025-01-26 02:08:41 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
     "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
+      "cooked_mutton_chops": "2025-01-26 02:08:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
     "criteria": {
-      "has_red_sandstone": "2025-01-26 01:30:05 +0000"
+      "cooked_mutton_chops": "2025-01-26 02:08:41 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_glass": {
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
     "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
+      "cooked_mutton_chops": "2025-01-26 02:08:41 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_glass": {
+  "iceandfire:recipes/combat/armor_green_leggings": {
     "criteria": {
-      "has_glass": "2025-01-26 01:16:59 +0000"
+      "has_item": "2025-01-26 02:14:02 +0000"
     },
     "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-01-26 02:14:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-26 02:14:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-01-26 02:14:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-01-26 02:14:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-01-26 02:14:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-01-26 02:17:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-01-26 02:17:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-01-26 02:17:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-01-26 02:17:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-01-26 02:17:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-01-26 02:17:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-01-26 02:17:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-01-26 02:17:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-01-26 02:17:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-01-26 02:17:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-01-26 02:17:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-01-26 02:17:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-01-26 02:17:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-01-26 02:17:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-01-26 02:17:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-01-26 02:17:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/linked_controller": {
+    "criteria": {
+      "has_item": "2025-01-26 02:17:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+    "criteria": {
+      "has_item": "2025-01-26 02:17:47 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/oxygelium": {
+    "criteria": {
+      "has_item": "2025-01-26 02:17:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
+    "criteria": {
+      "has_item": "2025-01-26 02:21:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
+    "criteria": {
+      "has_item": "2025-01-26 02:21:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-26 02:21:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
+    "criteria": {
+      "has_dragonscales_sapphire": "2025-01-26 02:21:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+    "criteria": {
+      "has_item": "2025-01-26 02:21:17 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-27 01:39:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-27 01:39:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-27 01:39:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-27 01:39:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-27 01:39:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-27 01:39:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-27 01:39:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-27 01:39:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-27 01:39:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-27 01:39:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-27 01:39:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-27 01:39:06 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
