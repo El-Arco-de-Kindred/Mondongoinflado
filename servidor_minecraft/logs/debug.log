@@ -11646,3 +11646,106 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [27Jan2025 01:41:34.437] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
 [27Jan2025 01:41:34.437] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
 [27Jan2025 01:41:34.438] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[27Jan2025 01:43:49.903] [IO-Worker-11/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-12
+[27Jan2025 01:44:47.849] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[27Jan2025 01:44:47.849] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[27Jan2025 01:44:47.850] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[27Jan2025 01:44:47.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 01:44:47.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 01:45:06.937] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[27Jan2025 01:46:40.613] [IO-Worker-12/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-13
+[27Jan2025 01:46:40.614] [IO-Worker-11/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-14
+[27Jan2025 01:46:40.617] [IO-Worker-11/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-15
+[27Jan2025 01:46:49.926] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[27Jan2025 01:46:52.168] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[27Jan2025 01:46:53.129] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[27Jan2025 01:46:53.173] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/illager/shoot/EAPillagerAttackGoal$CrossbowState
+[27Jan2025 01:46:53.417] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Jan2025 01:46:53.418] [Worker-Main-2/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from integrated_api-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Jan2025 01:46:53.418] [Worker-Main-2/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Jan2025 01:46:53.418] [Worker-Main-2/DEBUG] [mixin/]: Mixing gen.chunk_region.WorldGenRegionMixin from canary.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Jan2025 01:46:53.421] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[27Jan2025 01:46:53.674] [Worker-Main-1/DEBUG] [mixin/]: Mixing structures.BeardifierMixin from integrated_api-common.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[27Jan2025 01:46:53.676] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[27Jan2025 01:46:53.677] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[27Jan2025 01:46:53.678] [Worker-Main-1/DEBUG] [mixin/]: Mixing structures.BeardifierAccessor from integrated_api-common.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[27Jan2025 01:46:53.678] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[27Jan2025 01:46:53.684] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[27Jan2025 01:46:53.684] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[27Jan2025 01:46:53.776] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[27Jan2025 01:46:58.046] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[27Jan2025 01:47:13.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to Hikejace]
+[27Jan2025 01:47:34.794] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Milda'/43, l='ServerLevel[world]', x=66.70, y=52.00, z=-10.70] died, message: 'Milda died whilst trying to escape The Spitter'
+[27Jan2025 01:47:34.794] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Milda'/43, l='ServerLevel[world]', x=66.70, y=52.00, z=-10.70] died: Milda died whilst trying to escape The Spitter
+[27Jan2025 01:47:36.543] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Lorenzo'/40, l='ServerLevel[world]', x=67.51, y=54.02, z=-10.42] died, message: 'Lorenzo died whilst trying to escape The Spitter'
+[27Jan2025 01:47:36.543] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Lorenzo'/40, l='ServerLevel[world]', x=67.51, y=54.02, z=-10.42] died: Lorenzo died whilst trying to escape The Spitter
+[27Jan2025 01:47:45.342] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jonell'/38, l='ServerLevel[world]', x=66.70, y=53.00, z=-11.51] died, message: 'Jonell died whilst trying to escape The Spitter'
+[27Jan2025 01:47:45.343] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Jonell'/38, l='ServerLevel[world]', x=66.70, y=53.00, z=-11.51] died: Jonell died whilst trying to escape The Spitter
+[27Jan2025 01:47:50.292] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Allan'/44, l='ServerLevel[world]', x=67.33, y=50.00, z=-6.73] died, message: 'Allan died whilst trying to escape The Spitter'
+[27Jan2025 01:47:50.292] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Allan'/44, l='ServerLevel[world]', x=67.33, y=50.00, z=-6.73] died: Allan died whilst trying to escape The Spitter
+[27Jan2025 01:47:51.344] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Rod'/37, l='ServerLevel[world]', x=66.23, y=50.00, z=-5.30] died, message: 'Rod liquified to Fanta juice'
+[27Jan2025 01:47:51.344] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Rod'/37, l='ServerLevel[world]', x=66.23, y=50.00, z=-5.30] died: Rod liquified to Fanta juice
+[27Jan2025 01:47:54.143] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Rashida'/42, l='ServerLevel[world]', x=68.47, y=52.25, z=-8.77] died, message: 'Rashida liquified to Fanta juice'
+[27Jan2025 01:47:54.144] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Rashida'/42, l='ServerLevel[world]', x=68.47, y=52.25, z=-8.77] died: Rashida liquified to Fanta juice
+[27Jan2025 01:48:03.310] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Noble'/39, l='ServerLevel[world]', x=67.51, y=52.00, z=-9.70] died, message: 'Noble was squashed by a falling anvil'
+[27Jan2025 01:48:03.311] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Noble'/39, l='ServerLevel[world]', x=67.51, y=52.00, z=-9.70] died: Noble was squashed by a falling anvil
+[27Jan2025 01:48:06.150] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nakia'/41, l='ServerLevel[world]', x=67.62, y=51.00, z=-7.56] died, message: 'Nakia was slain by The Heavy'
+[27Jan2025 01:48:06.150] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Nakia'/41, l='ServerLevel[world]', x=67.62, y=51.00, z=-7.56] died: Nakia was slain by The Heavy
+[27Jan2025 01:48:06.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hikejace: Teleported Hikejace to Lcdo_Patino]
+[27Jan2025 01:48:50.714] [IO-Worker-15/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-16
+[27Jan2025 01:49:03.426] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/moonlight/api/entity/ImprovedProjectileEntity$ColliderType
+[27Jan2025 01:49:47.837] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[27Jan2025 01:49:47.837] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[27Jan2025 01:49:47.837] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[27Jan2025 01:49:47.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 01:49:47.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 01:50:05.410] [IO-Worker-16/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-17
+[27Jan2025 01:50:05.414] [IO-Worker-16/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-18
+[27Jan2025 01:50:06.941] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[27Jan2025 01:50:38.777] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[27Jan2025 01:50:38.778] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[27Jan2025 01:50:38.783] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[27Jan2025 01:50:42.229] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[27Jan2025 01:51:43.481] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/properties/ChoppedLogShape
+[27Jan2025 01:51:43.483] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[27Jan2025 01:54:22.171] [IO-Worker-13/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-19
+[27Jan2025 01:54:29.392] [IO-Worker-13/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-21
+[27Jan2025 01:54:29.392] [IO-Worker-17/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-20
+[27Jan2025 01:54:47.884] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[27Jan2025 01:54:47.884] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[27Jan2025 01:54:47.885] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[27Jan2025 01:54:47.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 01:54:47.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 01:55:06.937] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[27Jan2025 01:55:48.162] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Lcdo_Patino/pozo.nbt
+[27Jan2025 01:56:32.919] [IO-Worker-13/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-22
+[27Jan2025 01:58:18.191] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/schematics/requirement/ItemRequirement$ItemUseType
+[27Jan2025 01:58:31.458] [IO-Worker-13/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-23
+[27Jan2025 01:58:48.616] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/block/IKeyLockable$KeyStatus
+[27Jan2025 01:59:33.265] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [fd7e077d-f86a-48ea-ace1-eb2258f3cdb0]
+[27Jan2025 01:59:47.845] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[27Jan2025 01:59:47.845] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[27Jan2025 01:59:47.846] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[27Jan2025 01:59:47.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 01:59:47.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 02:00:06.937] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[27Jan2025 02:00:33.858] [Server thread/DEBUG] [mixin/]: Mixing BlockMovementChecksMixin from createaddition.mixins.json into com.simibubi.create.content.contraptions.BlockMovementChecks
+[27Jan2025 02:02:23.309] [IO-Worker-22/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-24
+[27Jan2025 02:04:19.141] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[27Jan2025 02:04:47.841] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[27Jan2025 02:04:47.842] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[27Jan2025 02:04:47.842] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[27Jan2025 02:04:47.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 02:04:47.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 02:04:47.912] [IO-Worker-22/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-25
+[27Jan2025 02:05:06.937] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[27Jan2025 02:05:44.527] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/equipment/clipboard/ClipboardOverrides$ClipboardType
+[27Jan2025 02:05:48.440] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/witch/darkart/DarkArtWitchGoal$Phase
+[27Jan2025 02:07:25.771] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Lcdo_Patino/cosa.nbt
+[27Jan2025 02:09:47.847] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[27Jan2025 02:09:47.847] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[27Jan2025 02:09:47.847] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[27Jan2025 02:09:47.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 02:09:47.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 02:10:06.937] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[27Jan2025 02:10:23.626] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Lcdo_Patino/cosa.nbt
