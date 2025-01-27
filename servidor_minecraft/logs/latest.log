@@ -1546,3 +1546,8 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [27Jan2025 02:09:47.847] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [27Jan2025 02:09:47.847] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [27Jan2025 02:10:23.626] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Lcdo_Patino/cosa.nbt
+[27Jan2025 02:14:47.839] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[27Jan2025 02:14:47.839] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[27Jan2025 02:19:21.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Smells Interesting]
+[27Jan2025 02:19:47.865] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[27Jan2025 02:19:47.866] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.

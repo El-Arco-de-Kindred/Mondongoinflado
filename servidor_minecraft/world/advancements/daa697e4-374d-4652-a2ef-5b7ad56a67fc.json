@@ -460,6 +460,7 @@
       "pine_log": "2025-01-08 22:32:21 +0000",
       "kapok_log": "2025-01-10 03:35:13 +0000",
       "small_oak_log": "2025-01-08 23:31:16 +0000",
+      "cobalt_log": "2025-01-27 02:18:19 +0000",
       "redwood_log": "2025-01-08 22:09:01 +0000",
       "blackwood_log": "2025-01-23 02:57:37 +0000",
       "maple_log": "2025-01-19 20:41:15 +0000"
@@ -12408,74 +12409,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-27 02:09:06 +0000"
+      "log_spam_fixer": "2025-01-27 02:19:06 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-01-27 02:09:21 +0000",
-      "log_spam_fixer": "2025-01-27 02:09:06 +0000"
+      "log_spam_fixer": "2025-01-27 02:19:06 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-27 02:09:06 +0000"
+      "log_spam_fixer": "2025-01-27 02:19:06 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-27 02:09:06 +0000"
+      "log_spam_fixer": "2025-01-27 02:19:06 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-27 02:09:06 +0000"
+      "log_spam_fixer": "2025-01-27 02:19:06 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-27 02:09:06 +0000"
+      "log_spam_fixer": "2025-01-27 02:19:06 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-27 02:09:06 +0000"
+      "log_spam_fixer": "2025-01-27 02:19:06 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-27 02:09:06 +0000"
+      "log_spam_fixer": "2025-01-27 02:19:06 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-27 02:09:06 +0000"
+      "log_spam_fixer": "2025-01-27 02:19:06 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-27 02:09:06 +0000"
+      "log_spam_fixer": "2025-01-27 02:19:06 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-27 02:09:06 +0000"
+      "log_spam_fixer": "2025-01-27 02:19:06 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-27 02:09:06 +0000"
+      "log_spam_fixer": "2025-01-27 02:19:06 +0000"
     },
     "done": false
   },
@@ -12545,6 +12545,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/schematics/schematicannon": {
+    "criteria": {
+      "has_item": "2025-01-27 02:09:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/metal_girder": {
     "criteria": {
       "has_item": "2025-01-27 01:59:51 +0000"
@@ -12593,6 +12599,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-01-27 02:19:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2025-01-27 01:59:51 +0000"
@@ -12608,6 +12620,12 @@
   "farmersdelight:recipes/decorations/rope": {
     "criteria": {
       "has_straw": "2025-01-27 02:02:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
+    "criteria": {
+      "has_stick": "2025-01-27 02:18:18 +0000"
     },
     "done": true
   },
@@ -12689,6 +12707,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/willow_sapling_from_willow_shrub": {
+    "criteria": {
+      "has_willow_shrub": "2025-01-27 02:19:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/filter": {
     "criteria": {
       "has_item": "2025-01-27 01:59:51 +0000"
@@ -12698,6 +12722,12 @@
   "create:recipes/misc/crafting/kinetics/white_sail": {
     "criteria": {
       "has_item": "2025-01-27 01:59:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/cobalt_planks": {
+    "criteria": {
+      "has_logs": "2025-01-27 02:18:19 +0000"
     },
     "done": true
   },
@@ -12743,6 +12773,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/schematics/schematic_table": {
+    "criteria": {
+      "has_item": "2025-01-27 02:09:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/windmill_bearing": {
     "criteria": {
       "has_item": "2025-01-27 01:59:51 +0000"
@@ -12773,6 +12809,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-01-27 02:19:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_mixer": {
     "criteria": {
       "has_item": "2025-01-27 01:59:51 +0000"
@@ -12782,6 +12824,18 @@
   "create:recipes/decorations/andesite_ladder_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2025-01-27 01:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-01-27 02:18:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/cobalt_wood": {
+    "criteria": {
+      "has_log": "2025-01-27 02:18:19 +0000"
     },
     "done": true
   },
@@ -12806,6 +12860,18 @@
   "create:recipes/misc/crafting/kinetics/contraption_controls": {
     "criteria": {
       "has_item": "2025-01-27 01:59:51 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/blackstone_stove": {
+    "criteria": {
+      "has_nether_brick": "2025-01-27 02:18:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": "2025-01-27 02:19:21 +0000"
     },
     "done": true
   },

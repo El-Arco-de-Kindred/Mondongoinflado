@@ -11749,3 +11749,19 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [27Jan2025 02:09:47.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Jan2025 02:10:06.937] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
 [27Jan2025 02:10:23.626] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Lcdo_Patino/cosa.nbt
+[27Jan2025 02:14:47.839] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[27Jan2025 02:14:47.839] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[27Jan2025 02:14:47.839] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[27Jan2025 02:14:47.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 02:14:47.887] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 02:15:06.937] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[27Jan2025 02:18:20.015] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[27Jan2025 02:19:21.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace has made the advancement [Smells Interesting]
+[27Jan2025 02:19:47.865] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[27Jan2025 02:19:47.865] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[27Jan2025 02:19:47.866] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[27Jan2025 02:19:47.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 02:19:47.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 02:19:48.164] [IO-Worker-23/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-26
+[27Jan2025 02:19:48.165] [IO-Worker-23/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-27
+[27Jan2025 02:20:06.936] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
