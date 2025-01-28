@@ -12610,3 +12610,56 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [28Jan2025 01:45:12.360] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [28Jan2025 01:45:12.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Jan2025 01:45:12.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jan2025 01:46:08.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Laudin114: Teleported Laudin114 to 1163.500000, 67.000000, 16.500000]
+[28Jan2025 01:46:13.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Laudin114: Teleported Laudin114 to 1165.500000, 70.000000, 52.500000]
+[28Jan2025 01:46:19.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Laudin114: Teleported Laudin114 to 1194.500000, 70.000000, 56.500000]
+[28Jan2025 01:46:25.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Laudin114: Teleported Laudin114 to Hikejace]
+[28Jan2025 01:48:06.157] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[28Jan2025 01:48:13.861] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[28Jan2025 01:48:33.834] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lcdo_Patino lost connection: Disconnected
+[28Jan2025 01:48:33.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino left the game
+[28Jan2025 01:49:28.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Laudin114: Teleported Laudin114 to Hikejace]
+[28Jan2025 01:49:36.015] [IO-Worker-70/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[28Jan2025 01:49:36.016] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[28Jan2025 01:50:12.358] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[28Jan2025 01:50:12.358] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[28Jan2025 01:50:12.358] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[28Jan2025 01:50:12.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jan2025 01:50:12.403] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jan2025 01:51:22.174] [IO-Worker-70/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[28Jan2025 01:51:22.219] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[28Jan2025 01:51:22.219] [IO-Worker-70/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[28Jan2025 01:52:31.425] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Laudin114 lost connection: Disconnected
+[28Jan2025 01:52:31.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laudin114 left the game
+[28Jan2025 01:52:33.179] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hikejace lost connection: Disconnected
+[28Jan2025 01:52:33.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace left the game
+[28Jan2025 01:52:41.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[28Jan2025 01:52:41.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Jan2025 01:52:41.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Jan2025 01:52:41.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Jan2025 01:52:41.805] [IO-Worker-70/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[28Jan2025 01:52:41.807] [IO-Worker-70/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[28Jan2025 01:52:41.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28Jan2025 01:52:41.925] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[28Jan2025 01:52:41.925] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[28Jan2025 01:52:41.925] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[28Jan2025 01:52:42.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28Jan2025 01:52:42.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28Jan2025 01:52:42.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jan2025 01:52:42.913] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jan2025 01:52:42.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Jan2025 01:52:42.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Jan2025 01:52:42.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Jan2025 01:52:42.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28Jan2025 01:52:42.951] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[28Jan2025 01:52:42.951] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[28Jan2025 01:52:42.986] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[28Jan2025 01:52:42.986] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[28Jan2025 01:52:42.986] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[28Jan2025 01:52:42.986] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[28Jan2025 01:52:42.988] [Worker-Main-10/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-10 shutdown
+[28Jan2025 01:52:42.988] [Worker-Main-41/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-41 shutdown
+[28Jan2025 01:52:42.988] [Worker-Main-11/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-11 shutdown
+[28Jan2025 01:52:42.988] [Worker-Main-2/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-2 shutdown
+[28Jan2025 01:52:42.989] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[28Jan2025 01:52:42.989] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
