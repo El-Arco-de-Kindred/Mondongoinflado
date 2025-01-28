@@ -50,3 +50,16 @@
 [28Jan2025 00:33:45.739] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Sadye'/17060, l='ServerLevel[world]', x=-6668.93, y=74.00, z=5434.93] died: Sadye was slain by The Somnolence
 [28Jan2025 00:33:57.293] [Worker-Main-11/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
 [28Jan2025 00:34:17.187] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[28Jan2025 00:34:48.417] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes
+[28Jan2025 00:34:52.572] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[28Jan2025 00:34:52.573] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[28Jan2025 00:34:52.577] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[28Jan2025 00:35:06.369] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[28Jan2025 00:35:06.369] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[28Jan2025 00:35:27.566] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[28Jan2025 00:38:23.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Laudin114: Teleported Laudin114 to Lcdo_Patino]
+[28Jan2025 00:40:06.361] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[28Jan2025 00:40:06.361] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[28Jan2025 00:40:08.013] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[28Jan2025 00:41:20.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Laudin114: Teleported Laudin114 to Lcdo_Patino]
+[28Jan2025 00:42:48.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Laudin114: Teleported Laudin114 to Lcdo_Patino]
