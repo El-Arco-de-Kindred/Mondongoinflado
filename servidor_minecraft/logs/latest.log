@@ -11,3 +11,20 @@
 [28Jan2025 00:09:25.486] [Server thread/INFO] [Jade/]: Syncing config to Laudin114 (a524a2c1-2761-41d1-ba09-9497194a52f4)
 [28Jan2025 00:10:04.165] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [28Jan2025 00:10:04.165] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[28Jan2025 00:15:04.158] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[28Jan2025 00:15:04.159] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[28Jan2025 00:15:37.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Laudin114: Teleported Laudin114 to Hikejace]
+[28Jan2025 00:15:54.968] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/utility/TreeCutter$SearchDirection
+[28Jan2025 00:16:53.547] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Hikejace/muro.nbt
+[28Jan2025 00:18:48.025] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Laudin114/muro.nbt
+[28Jan2025 00:19:11.097] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/schematics/requirement/ItemRequirement$ItemUseType
+[28Jan2025 00:19:49.223] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hikejace lost connection: Disconnected
+[28Jan2025 00:19:49.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hikejace left the game
+[28Jan2025 00:20:04.142] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[28Jan2025 00:20:04.142] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[28Jan2025 00:20:28.146] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Lcdo_Patino is 07ef74e0-32fb-487b-8895-119446250606
+[28Jan2025 00:20:30.083] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lcdo_Patino[/100.112.155.69:55303] logged in with entity id 12799 at (1170.699999988079, 70.0, 96.16660254354036)
+[28Jan2025 00:20:30.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino joined the game
+[28Jan2025 00:20:30.176] [Server thread/INFO] [Jade/]: Syncing config to Lcdo_Patino (07ef74e0-32fb-487b-8895-119446250606)
+[28Jan2025 00:20:58.585] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastResult$Type
+[28Jan2025 00:23:11.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Laudin114: Teleported Laudin114 to Lcdo_Patino]
