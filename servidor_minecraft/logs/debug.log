@@ -12194,3 +12194,44 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [28Jan2025 00:51:49.245] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Laudin114/muro.nbt
 [28Jan2025 00:53:00.157] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
 [28Jan2025 00:54:09.780] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Laudin114/tramo_de_muralla.nbt
+[28Jan2025 00:55:06.348] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[28Jan2025 00:55:06.348] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[28Jan2025 00:55:06.348] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[28Jan2025 00:55:06.372] [IO-Worker-50/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[28Jan2025 00:55:06.373] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jan2025 00:55:06.388] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jan2025 00:58:00.157] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[28Jan2025 00:58:32.388] [IO-Worker-50/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[28Jan2025 01:00:06.348] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[28Jan2025 01:00:06.348] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[28Jan2025 01:00:06.349] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[28Jan2025 01:00:06.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jan2025 01:00:06.388] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jan2025 01:00:17.730] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[28Jan2025 01:00:17.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Laudin114> Laudin114
+[28Jan2025 01:00:18.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Laudin114> Laudin114
+[28Jan2025 01:03:00.157] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[28Jan2025 01:05:06.354] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[28Jan2025 01:05:06.354] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[28Jan2025 01:05:06.354] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[28Jan2025 01:05:06.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jan2025 01:05:06.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jan2025 01:05:06.590] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[28Jan2025 01:05:41.197] [IO-Worker-50/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[28Jan2025 01:05:58.037] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/equipment/clipboard/ClipboardOverrides$ClipboardType
+[28Jan2025 01:08:00.157] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[28Jan2025 01:08:38.919] [IO-Worker-50/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[28Jan2025 01:10:06.348] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[28Jan2025 01:10:06.348] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[28Jan2025 01:10:06.348] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[28Jan2025 01:10:06.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jan2025 01:10:06.389] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jan2025 01:12:29.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Laudin114: Teleported Laudin114 to Lcdo_Patino]
+[28Jan2025 01:13:00.157] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[28Jan2025 01:14:54.931] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Laudin114/tramo_de_muralla.nbt
+[28Jan2025 01:15:06.348] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[28Jan2025 01:15:06.348] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[28Jan2025 01:15:06.348] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[28Jan2025 01:15:06.390] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jan2025 01:15:06.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jan2025 01:15:06.468] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
