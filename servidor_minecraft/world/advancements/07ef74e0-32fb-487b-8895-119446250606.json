@@ -12419,84 +12419,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-27 02:51:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-27 02:51:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-27 02:51:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-27 02:51:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-27 02:51:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-27 02:51:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-27 02:51:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-27 02:51:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-27 02:51:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-27 02:51:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-27 02:51:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-27 02:51:07 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/cut_tuff_brick_wall": {
-    "criteria": {
-      "has_cut_tuff_bricks": "2025-01-27 02:03:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_blue_dye": "2025-01-27 01:44:52 +0000"
@@ -12539,27 +12461,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_tuff_slab": {
-    "criteria": {
-      "has_cut_tuff": "2025-01-27 01:49:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_brick_stairs": {
-    "criteria": {
-      "has_cut_tuff_bricks": "2025-01-27 02:03:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_blue_bed": {
     "criteria": {
       "has_needed_dye": "2025-01-27 01:44:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_bricks": {
-    "criteria": {
-      "has_packed_mud": "2025-01-27 01:48:33 +0000"
     },
     "done": true
   },
@@ -12581,27 +12485,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_tuff_stairs": {
-    "criteria": {
-      "has_cut_tuff": "2025-01-27 01:49:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_wall": {
-    "criteria": {
-      "has_cut_tuff": "2025-01-27 01:49:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_blue_dye": "2025-01-27 01:44:52 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_brick_slab": {
-    "criteria": {
-      "has_cut_tuff_bricks": "2025-01-27 02:03:35 +0000"
     },
     "done": true
   },
@@ -12622,6 +12508,120 @@
       "has_blue_cup": "2025-01-27 01:44:52 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-01-27 01:48:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_slab": {
+    "criteria": {
+      "has_cut_tuff": "2025-01-27 01:49:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_stairs": {
+    "criteria": {
+      "has_cut_tuff": "2025-01-27 01:49:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall": {
+    "criteria": {
+      "has_cut_tuff": "2025-01-27 01:49:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall": {
+    "criteria": {
+      "has_cut_tuff_bricks": "2025-01-27 02:03:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs": {
+    "criteria": {
+      "has_cut_tuff_bricks": "2025-01-27 02:03:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab": {
+    "criteria": {
+      "has_cut_tuff_bricks": "2025-01-27 02:03:35 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-28 00:29:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-28 00:29:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-28 00:29:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-28 00:29:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-28 00:29:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-28 00:29:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-28 00:29:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-28 00:29:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-28 00:29:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-28 00:29:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-28 00:29:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-28 00:29:58 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

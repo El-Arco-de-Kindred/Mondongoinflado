@@ -28,3 +28,25 @@
 [28Jan2025 00:20:30.176] [Server thread/INFO] [Jade/]: Syncing config to Lcdo_Patino (07ef74e0-32fb-487b-8895-119446250606)
 [28Jan2025 00:20:58.585] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastResult$Type
 [28Jan2025 00:23:11.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Laudin114: Teleported Laudin114 to Lcdo_Patino]
+[28Jan2025 00:25:04.145] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[28Jan2025 00:25:04.145] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[28Jan2025 00:29:05.130] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/mobs/fisher/FishingHook$FishHookState
+[28Jan2025 00:30:04.164] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[28Jan2025 00:30:04.165] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[28Jan2025 00:31:52.439] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[28Jan2025 00:31:56.752] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[28Jan2025 00:31:57.066] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[28Jan2025 00:31:59.480] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[28Jan2025 00:31:59.545] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/illager/shoot/EAPillagerAttackGoal$CrossbowState
+[28Jan2025 00:32:04.319] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2211ms or 44 ticks behind
+[28Jan2025 00:32:05.196] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/block/tiles/PedestalBlockTile$DisplayType
+[28Jan2025 00:32:06.090] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[28Jan2025 00:33:07.139] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Clayton'/17085, l='ServerLevel[world]', x=-6658.39, y=63.00, z=5438.96] died, message: 'Clayton was slain by The Somnolence'
+[28Jan2025 00:33:07.140] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Clayton'/17085, l='ServerLevel[world]', x=-6658.39, y=63.00, z=5438.96] died: Clayton was slain by The Somnolence
+[28Jan2025 00:33:24.436] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Carolynn'/17086, l='ServerLevel[world]', x=-6659.62, y=67.00, z=5452.70] died, message: 'Carolynn was slain by The Somnolence'
+[28Jan2025 00:33:24.436] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Carolynn'/17086, l='ServerLevel[world]', x=-6659.62, y=67.00, z=5452.70] died: Carolynn was slain by The Somnolence
+[28Jan2025 00:33:40.560] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/OnIsPoweredResult
+[28Jan2025 00:33:45.738] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Sadye'/17060, l='ServerLevel[world]', x=-6668.93, y=74.00, z=5434.93] died, message: 'Sadye was slain by The Somnolence'
+[28Jan2025 00:33:45.739] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Sadye'/17060, l='ServerLevel[world]', x=-6668.93, y=74.00, z=5434.93] died: Sadye was slain by The Somnolence
+[28Jan2025 00:33:57.293] [Worker-Main-11/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[28Jan2025 00:34:17.187] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
