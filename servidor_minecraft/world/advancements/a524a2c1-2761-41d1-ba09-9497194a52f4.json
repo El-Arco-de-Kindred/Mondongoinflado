@@ -10295,73 +10295,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-28 01:15:00 +0000"
+      "log_spam_fixer": "2025-01-28 01:45:06 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-01-28 01:15:00 +0000"
+      "log_spam_fixer": "2025-01-28 01:45:06 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-28 01:15:00 +0000"
+      "log_spam_fixer": "2025-01-28 01:45:06 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-28 01:15:00 +0000"
+      "log_spam_fixer": "2025-01-28 01:45:06 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-28 01:15:00 +0000"
+      "log_spam_fixer": "2025-01-28 01:45:06 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-28 01:15:00 +0000"
+      "log_spam_fixer": "2025-01-28 01:45:06 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-28 01:15:00 +0000"
+      "log_spam_fixer": "2025-01-28 01:45:06 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-28 01:15:00 +0000"
+      "log_spam_fixer": "2025-01-28 01:45:06 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-28 01:15:00 +0000"
+      "log_spam_fixer": "2025-01-28 01:45:06 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-28 01:15:00 +0000"
+      "log_spam_fixer": "2025-01-28 01:45:06 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-28 01:15:00 +0000"
+      "log_spam_fixer": "2025-01-28 01:45:06 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-28 01:15:00 +0000"
+      "log_spam_fixer": "2025-01-28 01:45:06 +0000"
     },
     "done": false
   },
@@ -10539,6 +10539,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/blue_dye_from_blue_bioshroom": {
+    "criteria": {
+      "has_blue_bioshroom": "2025-01-28 01:26:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blue_bioshroom_block": {
+    "criteria": {
+      "has_blue_bioshroom": "2025-01-28 01:26:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-28 00:11:37 +0000"
@@ -10578,6 +10590,12 @@
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-01-28 00:11:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/tall_blue_bioshroom": {
+    "criteria": {
+      "has_blue_bioshroom": "2025-01-28 01:26:32 +0000"
     },
     "done": true
   },
@@ -10664,6 +10682,12 @@
       "has_glass": "2025-01-28 00:11:37 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:mycologist": {
+    "criteria": {
+      "blue_bioshroom": "2025-01-28 01:26:32 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_glass": {
     "criteria": {
