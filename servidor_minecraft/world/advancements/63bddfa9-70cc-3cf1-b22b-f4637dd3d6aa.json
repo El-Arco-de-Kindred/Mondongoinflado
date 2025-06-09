@@ -5373,12 +5373,6 @@
     },
     "done": true
   },
-  "cobblemon:rainbow_apricorns": {
-    "criteria": {
-      "place_black": "2025-06-09 03:44:22 +0000"
-    },
-    "done": false
-  },
   "cobblemon:recipes/held/power_weight": {
     "criteria": {
       "has_mint": "2025-06-09 03:19:13 +0000"
@@ -5402,6 +5396,24 @@
       "obtain_white_mint_leaf": "2025-06-09 03:19:13 +0000"
     },
     "done": false
+  },
+  "cobblemon:rainbow_apricorns": {
+    "criteria": {
+      "place_black": "2025-06-09 03:44:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-09 22:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-09 22:24:34 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

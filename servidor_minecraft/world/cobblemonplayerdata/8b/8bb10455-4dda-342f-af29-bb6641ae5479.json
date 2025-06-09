@@ -1095,6 +1095,14 @@
             "status": "SEEN",
             "discoveredTimestamp": 1749452088330
           }
+        },
+        "floatzel": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749507787164,
+            "caughtTimestamp": 1749507787164
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1111,7 +1119,7 @@
   "advancementData": {
     "totalCaptureCount": 41,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 11,
+    "totalEvolvedCount": 12,
     "totalBattleVictoryCount": 157,
     "totalPvPBattleVictoryCount": 4,
     "totalPvWBattleVictoryCount": 153,

@@ -1985,6 +1985,13 @@
         "status": "SEEN",
         "discoveredTimestamp": 1749452088331
       }
+    },
+    "megacharizardx": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749508119618
+      }
     }
   }
 }

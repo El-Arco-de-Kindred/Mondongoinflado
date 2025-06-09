@@ -1372,6 +1372,20 @@
             "discoveredTimestamp": 1749439327284,
             "caughtTimestamp": 1749439327284
           }
+        },
+        "nickit": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749508012613
+          }
+        },
+        "megacharizardx": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749508119617
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1387,9 +1401,9 @@
     "totalCaptureCount": 13,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 7,
-    "totalBattleVictoryCount": 171,
+    "totalBattleVictoryCount": 172,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 171,
+    "totalPvWBattleVictoryCount": 172,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
@@ -1439,7 +1453,7 @@
       "cobblemon:igglybuff": 1,
       "cobblemon:raticate": 1,
       "cobblemon:combee": 1,
-      "cobblemon:bouffalant": 5,
+      "cobblemon:bouffalant": 6,
       "cobblemon:mudbray": 2,
       "cobblemon:swinub": 1,
       "cobblemon:plusle": 1,
