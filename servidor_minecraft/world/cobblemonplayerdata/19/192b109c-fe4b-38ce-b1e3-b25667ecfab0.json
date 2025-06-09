@@ -1,0 +1,200 @@
+{
+  "uuid": "192b109c-fe4b-38ce-b1e3-b25667ecfab0",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "c62e5780-6e84-475f-836b-13ea523b2769",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {
+    "cobbledex_discovery": {
+      "registers": {
+        "charmander": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749438980524,
+            "caughtTimestamp": 1749438980524
+          }
+        },
+        "ponyta": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749439170120,
+            "caughtTimestamp": 1749439170120
+          }
+        },
+        "charmeleon": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749440062423,
+            "caughtTimestamp": 1749440062423
+          }
+        },
+        "growlithe": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749440594367,
+            "caughtTimestamp": 1749440594367
+          }
+        },
+        "lechonk": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749441596221
+          }
+        },
+        "machamp": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749441619814
+          }
+        },
+        "incineroar": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749441620645
+          }
+        },
+        "mareep": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749442127084
+          }
+        },
+        "herdier": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749442162590
+          }
+        },
+        "machop": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749442290030,
+            "caughtTimestamp": 1749442290030
+          }
+        },
+        "charizard": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749443038212,
+            "caughtTimestamp": 1749443038212
+          }
+        },
+        "alakazam": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749445063912,
+            "caughtTimestamp": 1749445063912
+          }
+        },
+        "arcanine": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749445811076,
+            "caughtTimestamp": 1749445811076
+          }
+        },
+        "machoke": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749445820687,
+            "caughtTimestamp": 1749445820687
+          }
+        },
+        "sandile": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749447776164,
+            "caughtTimestamp": 1749447776164
+          }
+        },
+        "krokorok": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749447796277,
+            "caughtTimestamp": 1749447796277
+          }
+        },
+        "cacturne": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749448865014,
+            "caughtTimestamp": 1749448865014
+          }
+        }
+      },
+      "name": "cobbledex_discovery"
+    },
+    "Cobbledex_RewardHistory": {
+      "received": [],
+      "name": "Cobbledex_RewardHistory"
+    }
+  },
+  "advancementData": {
+    "totalCaptureCount": 6,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 5,
+    "totalBattleVictoryCount": 42,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 42,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "fire": 2,
+      "fighting": 1,
+      "psychic": 1,
+      "ground": 1,
+      "dark": 2,
+      "grass": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:patrat": 2,
+      "cobblemon:wooloo": 6,
+      "cobblemon:flaaffy": 1,
+      "cobblemon:mareep": 4,
+      "cobblemon:bunnelby": 2,
+      "cobblemon:snubbull": 1,
+      "cobblemon:lechonk": 2,
+      "cobblemon:herdier": 1,
+      "cobblemon:buneary": 1,
+      "cobblemon:taillow": 1,
+      "cobblemon:gimmighoul": 1,
+      "cobblemon:oinkologne": 1,
+      "cobblemon:snorunt": 1,
+      "cobblemon:tauros": 1,
+      "cobblemon:bouffalant": 1,
+      "cobblemon:miltank": 2,
+      "cobblemon:pidove": 1,
+      "cobblemon:varoom": 1,
+      "cobblemon:spearow": 1,
+      "cobblemon:mudbray": 1,
+      "cobblemon:cufant": 1,
+      "cobblemon:camerupt": 1,
+      "cobblemon:numel": 1,
+      "cobblemon:machop": 1,
+      "cobblemon:maractus": 1,
+      "cobblemon:donphan": 1,
+      "cobblemon:gossifleur": 1
+    },
+    "aspectsCollected": {}
+  }
+}
