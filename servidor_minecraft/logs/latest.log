@@ -1434,3 +1434,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Jun2025 23:18:07.150] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/fluids/FluidTransportBehaviour$UpdatePhase
 [09Jun2025 23:18:29.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Lcdo_Patino]
 [09Jun2025 23:20:13.681] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[09Jun2025 23:27:25.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Lcdo_Patino]
+[09Jun2025 23:28:43.972] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/inventory/sorter/SortType$Type
+[09Jun2025 23:30:54.248] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: samore123[/100.100.145.89:55862] logged in with entity id 13814 at (2523.476822644574, 86.9375, 58.28864816898052)
+[09Jun2025 23:30:54.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 joined the game
+[09Jun2025 23:30:55.800] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[09Jun2025 23:30:56.592] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[09Jun2025 23:31:11.471] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[09Jun2025 23:31:11.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MIKE> pille
+[09Jun2025 23:31:14.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to samore123]

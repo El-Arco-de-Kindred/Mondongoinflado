@@ -2020,6 +2020,13 @@
         "status": "SEEN",
         "discoveredTimestamp": 1749510292484
       }
+    },
+    "pineco": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749511704502
+      }
     }
   }
 }

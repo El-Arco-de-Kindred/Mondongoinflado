@@ -1407,6 +1407,13 @@
             "status": "SEEN",
             "discoveredTimestamp": 1749509512751
           }
+        },
+        "pineco": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749511704501
+          }
         }
       },
       "name": "cobbledex_discovery"
