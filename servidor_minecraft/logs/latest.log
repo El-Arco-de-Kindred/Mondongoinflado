@@ -1417,3 +1417,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Jun2025 22:48:48.854] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5586, l='ServerLevel[world]', x=-163.26, y=29.65, z=10.29] died, message: 'Villager tried to swim in lava'
 [09Jun2025 22:50:00.980] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
 [09Jun2025 22:50:00.981] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[09Jun2025 22:50:36.534] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/161, l='ServerLevel[world]', x=-1418.33, y=63.92, z=349.32] died, message: 'Villager was slain by Zombie'
+[09Jun2025 22:51:20.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Lcdo_Patino]
+[09Jun2025 22:52:15.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: The difficulty has been set to Peaceful]
+[09Jun2025 22:52:21.500] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
+[09Jun2025 22:54:28.130] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/createmod/catnip/data/TriState
+[09Jun2025 22:58:37.086] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[09Jun2025 22:58:37.473] [Worker-Main-49/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[09Jun2025 22:58:37.474] [Worker-Main-49/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[09Jun2025 22:58:37.474] [Worker-Main-49/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[09Jun2025 22:59:25.634] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/base/IRotate$StressImpact
+[09Jun2025 23:03:09.565] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[09Jun2025 23:08:58.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Lcdo_Patino]
+[09Jun2025 23:10:21.071] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/bearing/WindmillBearingBlockEntity$RotationDirection

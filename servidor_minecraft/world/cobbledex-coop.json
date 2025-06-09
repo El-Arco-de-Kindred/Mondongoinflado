@@ -1992,6 +1992,34 @@
         "status": "SEEN",
         "discoveredTimestamp": 1749508119618
       }
+    },
+    "megagengar": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749509498286
+      }
+    },
+    "megagarchomp": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749509512752
+      }
+    },
+    "boldore": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749509658652
+      }
+    },
+    "golbat": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749510292484
+      }
     }
   }
 }

@@ -1386,6 +1386,27 @@
             "status": "SEEN",
             "discoveredTimestamp": 1749508119617
           }
+        },
+        "gengar": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749509491847
+          }
+        },
+        "megagengar": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749509498285
+          }
+        },
+        "megagarchomp": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749509512751
+          }
         }
       },
       "name": "cobbledex_discovery"

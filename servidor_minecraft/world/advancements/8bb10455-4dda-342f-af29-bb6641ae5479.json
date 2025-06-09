@@ -4498,9 +4498,33 @@
     },
     "done": true
   },
+  "megamons:recipes/misc/cut_gengarite_from_raw_gengarite_stonecutting": {
+    "criteria": {
+      "has_raw_gengarite": "2025-06-09 22:49:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-06-09 22:36:15 +0000"
+    },
+    "done": true
+  },
+  "megamons:gen1_07_gengarite_stone": {
+    "criteria": {
+      "has_cut_gengarite": "2025-06-09 22:49:30 +0000"
+    },
+    "done": true
+  },
+  "megamons:gen4_megastone": {
+    "criteria": {
+      "has_any_gen4_stone": "2025-06-09 22:50:15 +0000"
+    },
+    "done": true
+  },
+  "megamons:gen4_02_garchompite_stone": {
+    "criteria": {
+      "has_cut_garchompite": "2025-06-09 22:50:15 +0000"
     },
     "done": true
   },

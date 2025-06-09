@@ -1110,6 +1110,41 @@
             "status": "SEEN",
             "discoveredTimestamp": 1749508760282
           }
+        },
+        "megagengar": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749509502964
+          }
+        },
+        "megagarchomp": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749509513114
+          }
+        },
+        "boldore": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749509658651
+          }
+        },
+        "galvantula": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749510027665
+          }
+        },
+        "golbat": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749510292483
+          }
         }
       },
       "name": "cobbledex_discovery"
