@@ -1404,3 +1404,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Jun2025 20:52:45.446] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
 [09Jun2025 20:52:45.763] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
 [09Jun2025 20:53:05.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Set the time to 1000]
+[09Jun2025 20:54:51.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 has made the advancement [Surge Protector]
+[09Jun2025 20:55:06.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Fully healed samore123's party.]
+[09Jun2025 20:55:57.847] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[09Jun2025 20:55:57.848] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[09Jun2025 20:56:12.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Set the time to 1000]
+[09Jun2025 20:56:47.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Fully healed samore123's party.]

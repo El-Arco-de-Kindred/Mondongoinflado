@@ -139,6 +139,14 @@
             "discoveredTimestamp": 1749448865014,
             "caughtTimestamp": 1749448865014
           }
+        },
+        "krookodile": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749502617769,
+            "caughtTimestamp": 1749502617769
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -151,10 +159,10 @@
   "advancementData": {
     "totalCaptureCount": 6,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 5,
-    "totalBattleVictoryCount": 58,
+    "totalEvolvedCount": 6,
+    "totalBattleVictoryCount": 62,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 58,
+    "totalPvWBattleVictoryCount": 62,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -181,7 +189,7 @@
       "cobblemon:oinkologne": 1,
       "cobblemon:snorunt": 1,
       "cobblemon:tauros": 2,
-      "cobblemon:bouffalant": 2,
+      "cobblemon:bouffalant": 3,
       "cobblemon:miltank": 2,
       "cobblemon:pidove": 1,
       "cobblemon:varoom": 1,
@@ -197,13 +205,15 @@
       "cobblemon:graveler": 1,
       "cobblemon:kakuna": 1,
       "cobblemon:dubwool": 1,
-      "cobblemon:zigzagoon": 1,
+      "cobblemon:zigzagoon": 2,
       "cobblemon:teddiursa": 1,
       "cobblemon:geodude": 1,
       "cobblemon:maschiff": 2,
       "cobblemon:growlithe": 1,
       "cobblemon:klefki": 1,
-      "cobblemon:lillipup": 1
+      "cobblemon:lillipup": 1,
+      "cobblemon:diggersby": 1,
+      "cobblemon:fletchinder": 1
     },
     "aspectsCollected": {}
   }
