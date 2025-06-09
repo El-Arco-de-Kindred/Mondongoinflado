@@ -1326,6 +1326,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-09 04:44:33 +0000",
       "minecraft:spider": "2025-06-09 05:21:34 +0000",
+      "minecraft:creeper": "2025-06-09 20:13:05 +0000",
       "minecraft:enderman": "2025-06-09 05:19:42 +0000",
       "minecraft:zombie": "2025-06-09 03:57:26 +0000"
     },
@@ -3457,9 +3458,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-06-09 20:13:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-06-09 20:08:28 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-06-09 20:13:07 +0000"
     },
     "done": true
   },
@@ -3478,6 +3491,12 @@
   "minecraft:recipes/redstone/cherry_button": {
     "criteria": {
       "has_planks": "2025-06-09 20:08:28 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/whipped_dream": {
+    "criteria": {
+      "has_sweet_berry": "2025-06-09 20:13:49 +0000"
     },
     "done": true
   },
@@ -3502,6 +3521,18 @@
   "create:recipes/building_blocks/cherry_window": {
     "criteria": {
       "has_ingredient": "2025-06-09 20:08:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-09 20:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-09 20:13:07 +0000"
     },
     "done": true
   },
