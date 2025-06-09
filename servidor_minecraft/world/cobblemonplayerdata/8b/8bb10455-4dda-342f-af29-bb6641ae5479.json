@@ -1103,6 +1103,13 @@
             "discoveredTimestamp": 1749507787164,
             "caughtTimestamp": 1749507787164
           }
+        },
+        "flaaffy": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749508760282
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1120,9 +1127,9 @@
     "totalCaptureCount": 41,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 12,
-    "totalBattleVictoryCount": 157,
-    "totalPvPBattleVictoryCount": 4,
-    "totalPvWBattleVictoryCount": 153,
+    "totalBattleVictoryCount": 161,
+    "totalPvPBattleVictoryCount": 5,
+    "totalPvWBattleVictoryCount": 156,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 12,
@@ -1165,12 +1172,12 @@
       "cobblemon:wooloo": 4,
       "cobblemon:deerling": 2,
       "cobblemon:taillow": 2,
-      "cobblemon:miltank": 6,
+      "cobblemon:miltank": 7,
       "cobblemon:mareep": 6,
       "cobblemon:lechonk": 6,
       "cobblemon:zigzagoon": 2,
       "cobblemon:combee": 3,
-      "cobblemon:bouffalant": 8,
+      "cobblemon:bouffalant": 9,
       "cobblemon:cottonee": 3,
       "cobblemon:pelipper": 2,
       "cobblemon:krabby": 1,
@@ -1211,7 +1218,8 @@
       "cobblemon:plusle": 1,
       "cobblemon:ponyta": 2,
       "cobblemon:misdreavus": 1,
-      "cobblemon:dhelmise": 1
+      "cobblemon:dhelmise": 1,
+      "cobblemon:flaaffy": 1
     },
     "aspectsCollected": {
       "cobblemon:gholdengo": []

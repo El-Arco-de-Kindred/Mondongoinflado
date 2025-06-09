@@ -1404,3 +1404,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Jun2025 22:26:54.041] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/entity/pokeball/EmptyPokeBallEntity$CaptureState
 [09Jun2025 22:26:57.030] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/api/pokeball/catching/CatchRateModifier$Behavior
 [09Jun2025 22:27:09.905] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/oracle/truffle/js/builtins/helper/ReplaceStringParser$Token$Kind
+[09Jun2025 22:32:16.904] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[09Jun2025 22:35:20.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Fully healed Lcdo_Patino's party.]
+[09Jun2025 22:35:24.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[09Jun2025 22:36:15.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Enchanter]
+[09Jun2025 22:37:21.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Cover Me with Diamonds]
