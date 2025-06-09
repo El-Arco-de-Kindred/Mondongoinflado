@@ -3456,129 +3456,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_limestone_bricks_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2025-06-09 20:08:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/limestone_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-06-09 20:25:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/limestone_pillar_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-06-09 20:25:02 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/fox": {
-    "criteria": {
-      "has_sweet_berries": "2025-06-09 20:13:49 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-06-09 21:07:15 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:obtain_leek": {
-    "criteria": {
-      "check_inv": "2025-06-09 20:20:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-06-09 21:19:48 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/agriculture/medicinal_leek_to_magenta_dye": {
-    "criteria": {
-      "has_leek": "2025-06-09 20:20:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/tree_fertilizer": {
-    "criteria": {
-      "has_item": "2025-06-09 21:19:48 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crimsite_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
     },
     "done": true
   },
@@ -3588,141 +3468,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-06-09 21:07:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_crimsite_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/creeper": {
-    "criteria": {
-      "has_gunpowder": "2025-06-09 20:13:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2025-06-09 20:08:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-09 20:46:17 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-06-09 20:22:47 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-06-09 21:07:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-06-09 21:07:15 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/transportation/apricorn_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-09 20:46:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-09 20:45:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-09 20:46:17 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
-    "criteria": {
-      "has_item": "2025-06-09 20:25:02 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-06-09 21:07:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-06-09 20:25:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/empty_schematic": {
-    "criteria": {
-      "has_item": "2025-06-09 20:25:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-09 20:46:17 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_crimsite_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
     },
     "done": true
   },
@@ -3738,57 +3486,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+  "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
-      "has_book": "2025-06-09 20:25:44 +0000"
+      "has_planks": "2025-06-09 20:08:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/mangrove_chest_boat": {
+  "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
-      "has_boat": "2025-06-09 20:46:17 +0000"
+      "has_planks": "2025-06-09 20:08:28 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
-      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
+      "has_planks": "2025-06-09 20:08:28 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+  "create:recipes/building_blocks/cherry_window": {
     "criteria": {
-      "has_stone_types_dripstone": "2025-06-09 21:07:15 +0000"
+      "has_ingredient": "2025-06-09 20:08:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/writable_book": {
+  "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
-      "has_book": "2025-06-09 20:25:44 +0000"
+      "has_planks": "2025-06-09 20:08:28 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+  "travelersbackpack:recipes/misc/creeper": {
     "criteria": {
-      "has_stone_types_dripstone": "2025-06-09 21:07:15 +0000"
+      "has_gunpowder": "2025-06-09 20:13:07 +0000"
     },
     "done": true
   },
-  "cobblemon:recipes/consumables/roasted_leek_by_smoking": {
+  "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
-      "has_leek": "2025-06-09 20:20:37 +0000"
+      "has_gunpowder": "2025-06-09 20:13:07 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/crimsite_pillar_from_stone_types_crimsite_stonecutting": {
+  "minecraft:recipes/redstone/tnt": {
     "criteria": {
-      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
+      "has_gunpowder": "2025-06-09 20:13:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
+  "travelersbackpack:recipes/misc/fox": {
     "criteria": {
-      "has_stripped_logs": "2025-06-09 20:22:33 +0000"
+      "has_sweet_berries": "2025-06-09 20:13:49 +0000"
     },
     "done": true
   },
@@ -3798,9 +3546,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_chest_boat": {
+  "cobblemon:obtain_leek": {
     "criteria": {
-      "has_boat": "2025-06-09 20:46:17 +0000"
+      "check_inv": "2025-06-09 20:20:37 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/medicinal_leek_to_magenta_dye": {
+    "criteria": {
+      "has_leek": "2025-06-09 20:20:37 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/roasted_leek_by_smoking": {
+    "criteria": {
+      "has_leek": "2025-06-09 20:20:37 +0000"
     },
     "done": true
   },
@@ -3810,9 +3570,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/cherry_chest_boat": {
+  "cobblemon:recipes/consumables/roasted_leek_by_campfire": {
     "criteria": {
-      "has_boat": "2025-06-09 20:46:17 +0000"
+      "has_leek": "2025-06-09 20:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-09 20:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-09 20:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-09 20:22:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-06-09 20:25:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-06-09 20:25:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-06-09 20:25:02 +0000"
     },
     "done": true
   },
@@ -3822,51 +3618,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-09 20:46:17 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-09 20:45:22 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2025-06-09 20:25:02 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-09 20:45:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_limestone_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
     },
     "done": true
   },
@@ -3876,45 +3630,141 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-06-09 21:07:15 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2025-06-09 20:25:02 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+  "cobblemon:recipes/held/spell_tag": {
     "criteria": {
-      "has_stone_types_dripstone": "2025-06-09 21:07:15 +0000"
+      "has_item": "2025-06-09 20:25:02 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+  "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
-      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
+      "has_paper": "2025-06-09 20:25:02 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+  "cobblemon:recipes/held/blunder_policy": {
     "criteria": {
-      "has_item": "2025-06-09 21:19:48 +0000"
+      "has_paper": "2025-06-09 20:25:02 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+  "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
-      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
+      "has_book": "2025-06-09 20:25:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-06-09 20:25:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-09 20:25:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-06-09 20:25:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-09 20:25:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-09 20:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-09 20:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-09 20:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-09 20:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-09 20:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-09 20:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-09 20:46:17 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/transportation/apricorn_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-09 20:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-09 20:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-09 20:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-09 20:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-09 20:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-09 20:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-09 20:46:17 +0000"
     },
     "done": true
   },
@@ -3924,9 +3774,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-06-09 20:46:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2025-06-09 20:54:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-09 21:07:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-09 21:07:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-09 21:07:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-09 21:07:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-09 21:07:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-09 21:07:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-09 21:07:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-09 21:07:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-09 21:07:15 +0000"
     },
     "done": true
   },
@@ -3942,99 +3852,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/cherry_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-06-09 20:08:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_chest_raft": {
-    "criteria": {
-      "has_boat": "2025-06-09 20:46:17 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_sign": {
-    "criteria": {
-      "has_planks": "2025-06-09 20:08:28 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/spell_tag": {
-    "criteria": {
-      "has_item": "2025-06-09 20:25:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-09 20:45:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-06-09 20:08:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_crimsite_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-06-09 21:07:15 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/consumables/roasted_leek_by_campfire": {
-    "criteria": {
-      "has_leek": "2025-06-09 20:20:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cherry_window": {
-    "criteria": {
-      "has_ingredient": "2025-06-09 20:08:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-09 20:45:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2025-06-09 21:07:16 +0000"
     },
     "done": true
   },
@@ -4044,27 +3864,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-06-09 21:07:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-06-09 20:25:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
-    "criteria": {
-      "has_log": "2025-06-09 20:22:33 +0000"
     },
     "done": true
   },
@@ -4080,57 +3882,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/bookshelf": {
-    "criteria": {
-      "has_book": "2025-06-09 20:25:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-06-09 20:13:07 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-06-09 21:07:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-09 20:45:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2025-06-09 20:13:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_door": {
-    "criteria": {
-      "has_planks": "2025-06-09 20:08:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/blunder_policy": {
-    "criteria": {
-      "has_paper": "2025-06-09 20:25:02 +0000"
     },
     "done": true
   },
@@ -4140,21 +3894,279 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
-    "criteria": {
-      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-06-09 21:07:15 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-06-09 21:07:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/limestone_pillar_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-06-09 21:10:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimsite_pillar_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-06-09 21:10:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-06-09 21:19:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-06-09 21:19:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-06-09 21:19:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-06-09 21:19:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_slab_recycling": {
+    "criteria": {
+      "has_cut_limestone_brick_slab": "2025-06-09 23:37:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_slab_recycling": {
+    "criteria": {
+      "has_cut_limestone_slab": "2025-06-09 23:36:28 +0000"
     },
     "done": true
   },
