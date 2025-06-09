@@ -1391,3 +1391,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Jun2025 20:20:07.784] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
 [09Jun2025 20:20:37.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 has made the advancement [There's a Leek in the Boat!]
 [09Jun2025 20:21:48.006] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[09Jun2025 20:33:30.982] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/79, l='ServerLevel[world]', x=2534.51, y=104.25, z=90.74] died, message: 'Librarian was slain by samore123'
+[09Jun2025 20:34:54.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Set the time to 1000]
+[09Jun2025 20:37:09.139] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[09Jun2025 20:40:52.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Fully healed samore123's party.]
+[09Jun2025 20:42:51.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Fully healed samore123's party.]

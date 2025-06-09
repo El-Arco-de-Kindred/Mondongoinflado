@@ -132,6 +132,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-06-09 03:22:33 +0000",
+      "cooked_beef": "2025-06-09 20:29:10 +0000",
       "porkchop": "2025-06-09 04:45:08 +0000",
       "mutton": "2025-06-09 05:21:18 +0000",
       "beetroot": "2025-06-09 03:22:24 +0000"
@@ -3458,9 +3459,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-09 20:25:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-06-09 20:25:02 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/fox": {
     "criteria": {
       "has_sweet_berries": "2025-06-09 20:13:49 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_leek": {
+    "criteria": {
+      "check_inv": "2025-06-09 20:20:37 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/medicinal_leek_to_magenta_dye": {
+    "criteria": {
+      "has_leek": "2025-06-09 20:20:37 +0000"
     },
     "done": true
   },
@@ -3482,6 +3507,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-09 20:22:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-06-09 20:25:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-06-09 20:25:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-06-09 20:25:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-09 20:08:28 +0000"
@@ -3494,9 +3543,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-09 20:25:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-06-09 20:25:44 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/roasted_leek_by_smoking": {
+    "criteria": {
+      "has_leek": "2025-06-09 20:20:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-09 20:22:33 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/evolution/whipped_dream": {
     "criteria": {
       "has_sweet_berry": "2025-06-09 20:13:49 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/roasted_leek": {
+    "criteria": {
+      "has_leek": "2025-06-09 20:20:37 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/weakness_policy": {
+    "criteria": {
+      "has_paper": "2025-06-09 20:25:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-06-09 20:25:02 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/red_card": {
+    "criteria": {
+      "has_paper": "2025-06-09 20:25:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-06-09 20:25:02 +0000"
     },
     "done": true
   },
@@ -3512,15 +3615,45 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/spell_tag": {
+    "criteria": {
+      "has_item": "2025-06-09 20:25:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-09 20:08:28 +0000"
     },
     "done": true
   },
+  "cobblemon:recipes/consumables/roasted_leek_by_campfire": {
+    "criteria": {
+      "has_leek": "2025-06-09 20:20:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cherry_window": {
     "criteria": {
       "has_ingredient": "2025-06-09 20:08:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-06-09 20:25:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-09 20:22:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-09 20:25:44 +0000"
     },
     "done": true
   },
@@ -3539,6 +3672,12 @@
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-06-09 20:08:28 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/blunder_policy": {
+    "criteria": {
+      "has_paper": "2025-06-09 20:25:02 +0000"
     },
     "done": true
   },
