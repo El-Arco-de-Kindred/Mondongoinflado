@@ -1067,6 +1067,34 @@
             "status": "SEEN",
             "discoveredTimestamp": 1749450431075
           }
+        },
+        "butterfree": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749451592581
+          }
+        },
+        "watchog": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749451597442
+          }
+        },
+        "furret": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749451650441
+          }
+        },
+        "gossifleur": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749452088330
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1084,9 +1112,9 @@
     "totalCaptureCount": 41,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 11,
-    "totalBattleVictoryCount": 156,
+    "totalBattleVictoryCount": 157,
     "totalPvPBattleVictoryCount": 4,
-    "totalPvWBattleVictoryCount": 152,
+    "totalPvWBattleVictoryCount": 153,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 12,
@@ -1173,7 +1201,7 @@
       "cobblemon:ursaring": 1,
       "cobblemon:gimmighoul": 1,
       "cobblemon:plusle": 1,
-      "cobblemon:ponyta": 1,
+      "cobblemon:ponyta": 2,
       "cobblemon:misdreavus": 1,
       "cobblemon:dhelmise": 1
     },
