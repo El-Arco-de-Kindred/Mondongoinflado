@@ -1592,3 +1592,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Jun2025 06:53:28.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Fully healed samore123's party.]
 [09Jun2025 06:53:30.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Set the time to 1000]
 [09Jun2025 06:54:26.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk fell from a high place
+[09Jun2025 07:02:27.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Set own game mode to Spectator Mode]
+[09Jun2025 07:02:35.418] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aesthetikkkk lost connection: Disconnected
+[09Jun2025 07:02:35.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk left the game
+[09Jun2025 07:02:46.111] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKE lost connection: Disconnected
+[09Jun2025 07:02:46.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE left the game
+[09Jun2025 07:03:16.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Set own game mode to Survival Mode]
+[09Jun2025 07:04:40.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 was slain by Zombie
