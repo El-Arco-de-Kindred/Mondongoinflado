@@ -1124,17 +1124,17 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 41,
+    "totalCaptureCount": 42,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 12,
-    "totalBattleVictoryCount": 161,
+    "totalBattleVictoryCount": 162,
     "totalPvPBattleVictoryCount": 5,
-    "totalPvWBattleVictoryCount": 156,
+    "totalPvWBattleVictoryCount": 157,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 12,
     "totalTypeCaptureCounts": {
-      "normal": 8,
+      "normal": 9,
       "electric": 4,
       "fire": 3,
       "ghost": 3,

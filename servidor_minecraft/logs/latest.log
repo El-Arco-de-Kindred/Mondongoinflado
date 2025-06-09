@@ -1409,3 +1409,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Jun2025 22:35:24.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
 [09Jun2025 22:36:15.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE has made the advancement [Enchanter]
 [09Jun2025 22:37:21.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Cover Me with Diamonds]
+[09Jun2025 22:42:42.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Fully healed MIKE's party.]
+[09Jun2025 22:44:52.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [The Brass Age]
+[09Jun2025 22:48:34.111] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/crafter/MechanicalCrafterBlockEntity$Phase
+[09Jun2025 22:48:46.062] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[09Jun2025 22:48:46.343] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[09Jun2025 22:48:48.854] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5586, l='ServerLevel[world]', x=-163.26, y=29.65, z=10.29] died, message: 'Villager tried to swim in lava'
+[09Jun2025 22:50:00.980] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[09Jun2025 22:50:00.981] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
