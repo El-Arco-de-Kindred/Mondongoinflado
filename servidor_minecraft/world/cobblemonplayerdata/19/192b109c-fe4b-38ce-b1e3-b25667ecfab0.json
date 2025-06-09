@@ -160,9 +160,9 @@
     "totalCaptureCount": 6,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 6,
-    "totalBattleVictoryCount": 62,
+    "totalBattleVictoryCount": 65,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 62,
+    "totalPvWBattleVictoryCount": 65,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -207,13 +207,14 @@
       "cobblemon:dubwool": 1,
       "cobblemon:zigzagoon": 2,
       "cobblemon:teddiursa": 1,
-      "cobblemon:geodude": 1,
+      "cobblemon:geodude": 2,
       "cobblemon:maschiff": 2,
       "cobblemon:growlithe": 1,
       "cobblemon:klefki": 1,
       "cobblemon:lillipup": 1,
       "cobblemon:diggersby": 1,
-      "cobblemon:fletchinder": 1
+      "cobblemon:fletchinder": 1,
+      "cobblemon:gastly": 2
     },
     "aspectsCollected": {}
   }
