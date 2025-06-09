@@ -152,9 +152,9 @@
     "totalCaptureCount": 6,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 5,
-    "totalBattleVictoryCount": 43,
+    "totalBattleVictoryCount": 44,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 43,
+    "totalPvWBattleVictoryCount": 44,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -194,7 +194,8 @@
       "cobblemon:maractus": 1,
       "cobblemon:donphan": 1,
       "cobblemon:gossifleur": 1,
-      "cobblemon:graveler": 1
+      "cobblemon:graveler": 1,
+      "cobblemon:kakuna": 1
     },
     "aspectsCollected": {}
   }

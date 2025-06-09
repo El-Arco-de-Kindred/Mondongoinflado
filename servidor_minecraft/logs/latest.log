@@ -1599,3 +1599,30 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Jun2025 07:02:46.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE left the game
 [09Jun2025 07:03:16.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Set own game mode to Survival Mode]
 [09Jun2025 07:04:40.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 was slain by Zombie
+[09Jun2025 07:11:21.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 has made the advancement [Sweet Dreams]
+[09Jun2025 07:11:21.643] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[09Jun2025 07:11:26.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Set the time to 1000]
+[09Jun2025 07:16:50.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Set own game mode to Creative Mode]
+[09Jun2025 07:17:14.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Set own game mode to Survival Mode]
+[09Jun2025 07:21:16.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Set the time to 1000]
+[09Jun2025 07:22:44.005] [Worker-Main-96/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[09Jun2025 07:22:44.005] [Worker-Main-96/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[09Jun2025 07:22:44.021] [Worker-Main-96/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[09Jun2025 07:22:54.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Set own game mode to Spectator Mode]
+[09Jun2025 07:23:29.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samore123 moved too quickly! -6.6467830057461015,3.374997495631324,6.950649863779688
+[09Jun2025 07:23:58.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Set own game mode to Survival Mode]
+[09Jun2025 07:24:09.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Set own game mode to Spectator Mode]
+[09Jun2025 07:24:18.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Set own game mode to Survival Mode]
+[09Jun2025 07:24:31.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Set own game mode to Spectator Mode]
+[09Jun2025 07:25:06.968] [Worker-Main-121/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[09Jun2025 07:25:06.981] [Worker-Main-121/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[09Jun2025 07:25:07.000] [Worker-Main-121/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[09Jun2025 07:25:41.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Set own game mode to Survival Mode]
+[09Jun2025 07:26:02.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Set own game mode to Spectator Mode]
+[09Jun2025 07:26:59.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Set own game mode to Survival Mode]
+[09Jun2025 07:27:04.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Set own game mode to Spectator Mode]
+[09Jun2025 07:27:11.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Set own game mode to Survival Mode]
+[09Jun2025 07:27:26.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Set own game mode to Spectator Mode]
+[09Jun2025 07:28:05.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Set own game mode to Survival Mode]
+[09Jun2025 07:28:19.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Set own game mode to Spectator Mode]
+[09Jun2025 07:28:24.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samore123 moved too quickly! 8.845199965230222,0.0,5.064452448272959
