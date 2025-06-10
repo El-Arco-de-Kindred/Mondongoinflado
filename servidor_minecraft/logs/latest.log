@@ -71,3 +71,7 @@
 [10Jun2025 01:30:41.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Lcdo_Patino]
 [10Jun2025 01:30:44.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set the time to 1000]
 [10Jun2025 01:42:56.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Lcdo_Patino]
+[10Jun2025 01:43:58.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Lcdo_Patino]
+[10Jun2025 01:44:29.680] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKE lost connection: Disconnected
+[10Jun2025 01:44:29.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE left the game
+[10Jun2025 01:50:38.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Hungry hoppers]
