@@ -192,3 +192,25 @@
 [10Jun2025 03:40:24.987] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samore123 lost connection: Disconnected
 [10Jun2025 03:40:24.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 left the game
 [10Jun2025 03:42:55.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk fell from a high place
+[10Jun2025 03:46:10.440] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lcdo_Patino lost connection: Disconnected
+[10Jun2025 03:46:10.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino left the game
+[10Jun2025 03:46:43.702] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: samore123[/100.100.145.89:56666] logged in with entity id 95941 at (-1376.4206092452569, 64.0, 367.5131783428385)
+[10Jun2025 03:46:43.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 joined the game
+[10Jun2025 03:51:58.889] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aesthetikkkk lost connection: Disconnected
+[10Jun2025 03:51:58.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aesthetikkkk left the game
+[10Jun2025 03:53:34.782] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samore123 lost connection: Disconnected
+[10Jun2025 03:53:34.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 left the game
+[10Jun2025 03:53:47.927] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKE lost connection: Disconnected
+[10Jun2025 03:53:47.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE left the game
+[10Jun2025 03:53:59.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Jun2025 03:53:59.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Jun2025 03:53:59.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Jun2025 03:53:59.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Jun2025 03:53:59.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Jun2025 03:53:59.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Jun2025 03:53:59.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Jun2025 03:54:00.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Jun2025 03:54:00.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Jun2025 03:54:00.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Jun2025 03:54:00.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10Jun2025 03:54:00.105] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
