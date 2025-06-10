@@ -75,3 +75,7 @@
 [10Jun2025 01:44:29.680] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKE lost connection: Disconnected
 [10Jun2025 01:44:29.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE left the game
 [10Jun2025 01:50:38.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino has made the advancement [Hungry hoppers]
+[10Jun2025 02:01:22.442] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MIKE[/100.119.140.125:58991] logged in with entity id 50603 at (-1488.699999988079, 68.0, 457.9449589779038)
+[10Jun2025 02:01:22.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE joined the game
+[10Jun2025 02:01:37.981] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MIKE lost connection: Disconnected
+[10Jun2025 02:01:37.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE left the game

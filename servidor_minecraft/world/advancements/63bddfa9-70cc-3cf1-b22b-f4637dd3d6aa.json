@@ -200,12 +200,14 @@
   },
   "cobblemon:recipes/balls/heavy_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-06-10 01:55:46 +0000",
       "has_black_apricorn": "2025-06-07 02:16:55 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/moon_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-06-10 01:55:46 +0000",
       "has_black_apricorn": "2025-06-07 02:16:55 +0000",
       "has_yellow_apricorn": "2025-06-07 02:19:38 +0000"
     },
@@ -252,6 +254,7 @@
   },
   "cobblemon:recipes/balls/net_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-06-10 01:55:46 +0000",
       "has_black_apricorn": "2025-06-07 02:16:55 +0000"
     },
     "done": false
@@ -478,9 +481,10 @@
   },
   "cobblemon:recipes/balls/quick_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-06-10 01:55:46 +0000",
       "has_yellow_apricorn": "2025-06-07 02:19:38 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:harvest_apricorn_seed": {
     "criteria": {
@@ -844,6 +848,7 @@
   },
   "cobblemon:recipes/balls/dream_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-06-10 01:55:46 +0000",
       "has_red_apricorn": "2025-06-07 02:28:28 +0000"
     },
     "done": false
@@ -856,9 +861,10 @@
   },
   "cobblemon:recipes/balls/great_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-06-10 01:55:46 +0000",
       "has_red_apricorn": "2025-06-07 02:28:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/park_ball": {
     "criteria": {
@@ -874,6 +880,7 @@
   },
   "cobblemon:recipes/balls/lure_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-06-10 01:55:46 +0000",
       "has_red_apricorn": "2025-06-07 02:28:28 +0000"
     },
     "done": false
@@ -5662,9 +5669,21 @@
     },
     "done": true
   },
+  "cobblemon:recipes/agriculture/blue_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-06-10 01:55:46 +0000"
+    },
+    "done": true
+  },
   "create:encased_fan": {
     "criteria": {
       "0": "2025-06-10 00:52:16 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/peat_block": {
+    "criteria": {
+      "has_mud": "2025-06-10 01:55:46 +0000"
     },
     "done": true
   },
@@ -5685,6 +5704,12 @@
       "has_stone_types_limestone": "2025-06-10 01:04:38 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/balls/dive_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2025-06-10 01:55:46 +0000"
+    },
+    "done": false
   },
   "create:recipes/building_blocks/limestone_pillar_from_stone_types_limestone_stonecutting": {
     "criteria": {
@@ -5755,6 +5780,12 @@
   "create:recipes/building_blocks/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-06-10 01:04:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-06-10 01:55:46 +0000"
     },
     "done": true
   },
@@ -5839,6 +5870,12 @@
   "travelersbackpack:recipes/building_blocks/dye_lime_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2025-06-10 01:34:34 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/azure_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2025-06-10 01:55:46 +0000"
     },
     "done": true
   },
