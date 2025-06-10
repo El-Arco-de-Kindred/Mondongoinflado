@@ -168,9 +168,9 @@
     "totalCaptureCount": 7,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 6,
-    "totalBattleVictoryCount": 84,
+    "totalBattleVictoryCount": 85,
     "totalPvPBattleVictoryCount": 2,
-    "totalPvWBattleVictoryCount": 82,
+    "totalPvWBattleVictoryCount": 83,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -225,7 +225,8 @@
       "cobblemon:gastly": 2,
       "cobblemon:stonjourner": 1,
       "cobblemon:furret": 1,
-      "cobblemon:drowzee": 1
+      "cobblemon:drowzee": 1,
+      "cobblemon:arcanine": 1
     },
     "aspectsCollected": {}
   }
