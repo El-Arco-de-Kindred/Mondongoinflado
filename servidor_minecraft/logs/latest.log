@@ -13,3 +13,15 @@
 [10Jun2025 00:09:26.235] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['mama burra'/21841, l='ServerLevel[world]', x=-1461.50, y=65.45, z=447.50] died: mama burra was processed by Crushing Wheels
 [10Jun2025 00:10:08.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lcdo_Patino lost connection: Disconnected
 [10Jun2025 00:10:08.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino left the game
+[10Jun2025 00:13:32.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 fell from a high place
+[10Jun2025 00:13:58.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 fell from a high place
+[10Jun2025 00:17:24.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 was blown up by Creeper
+[10Jun2025 00:18:21.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 was shot by Skeleton
+[10Jun2025 00:19:57.988] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['mama burra'/26088, l='ServerLevel[world]', x=-1461.50, y=65.45, z=447.50] died: mama burra was processed by Crushing Wheels
+[10Jun2025 00:20:11.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 was shot by Skeleton
+[10Jun2025 00:24:39.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 was blown up by Creeper
+[10Jun2025 00:24:43.899] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lcdo_Patino[/100.112.155.69:55228] logged in with entity id 27764 at (-1455.3426749526552, 65.0, 452.3337357346208)
+[10Jun2025 00:24:43.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino joined the game
+[10Jun2025 00:28:53.890] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['mama burra'/29179, l='ServerLevel[world]', x=-1461.50, y=65.45, z=447.50] died: mama burra was processed by Crushing Wheels
+[10Jun2025 00:29:03.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE was processed by Crushing Wheels
+[10Jun2025 00:29:37.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Lcdo_Patino]

@@ -4546,6 +4546,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-06-10 00:29:55 +0000"
+    },
+    "done": true
+  },
   "megamons:recipes/misc/cut_gengarite_from_raw_gengarite_stonecutting": {
     "criteria": {
       "has_raw_gengarite": "2025-06-09 22:49:23 +0000"
@@ -4567,6 +4573,12 @@
   "create:recipes/building_blocks/cut_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-06-09 23:35:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-06-10 00:29:55 +0000"
     },
     "done": true
   },
@@ -4702,6 +4714,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-06-10 00:29:55 +0000"
+    },
+    "done": true
+  },
   "megamons:gen4_megastone": {
     "criteria": {
       "has_any_gen4_stone": "2025-06-09 22:50:15 +0000"
@@ -4795,6 +4813,12 @@
   "create:recipes/building_blocks/small_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-06-09 23:35:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-06-10 00:29:55 +0000"
     },
     "done": true
   },
