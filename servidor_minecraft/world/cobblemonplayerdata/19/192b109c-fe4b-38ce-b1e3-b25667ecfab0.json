@@ -160,9 +160,9 @@
     "totalCaptureCount": 6,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 6,
-    "totalBattleVictoryCount": 75,
+    "totalBattleVictoryCount": 78,
     "totalPvPBattleVictoryCount": 2,
-    "totalPvWBattleVictoryCount": 73,
+    "totalPvWBattleVictoryCount": 76,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -179,7 +179,7 @@
       "cobblemon:wooloo": 8,
       "cobblemon:flaaffy": 1,
       "cobblemon:mareep": 4,
-      "cobblemon:bunnelby": 3,
+      "cobblemon:bunnelby": 4,
       "cobblemon:snubbull": 1,
       "cobblemon:lechonk": 2,
       "cobblemon:herdier": 2,
@@ -215,7 +215,9 @@
       "cobblemon:diggersby": 2,
       "cobblemon:fletchinder": 1,
       "cobblemon:gastly": 2,
-      "cobblemon:stonjourner": 1
+      "cobblemon:stonjourner": 1,
+      "cobblemon:furret": 1,
+      "cobblemon:drowzee": 1
     },
     "aspectsCollected": {}
   }

@@ -335,8 +335,9 @@
     "cottonee": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1749264182668
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749264182668,
+        "caughtTimestamp": 1749523258201
       }
     },
     "fidough": {
@@ -1204,8 +1205,9 @@
     "persian": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1749332440130
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749332440130,
+        "caughtTimestamp": 1749522676034
       }
     },
     "tinkatuff": {
@@ -2040,6 +2042,21 @@
         "isShiny": false,
         "status": "SEEN",
         "discoveredTimestamp": 1749513973456
+      }
+    },
+    "drifblim": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749522826564
+      }
+    },
+    "tepig": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749522976441,
+        "caughtTimestamp": 1749522976441
       }
     }
   }

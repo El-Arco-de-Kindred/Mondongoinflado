@@ -841,6 +841,7 @@
   },
   "cobblemon:rainbow_apricorns": {
     "criteria": {
+      "place_black": "2025-06-10 02:37:38 +0000",
       "place_green": "2025-06-09 06:15:32 +0000",
       "place_pink": "2025-06-09 03:45:51 +0000",
       "place_yellow": "2025-06-09 03:39:56 +0000"
@@ -4167,27 +4168,99 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
+  "create:recipes/building_blocks/cut_limestone_slab_recycling": {
     "criteria": {
-      "has_gravel": "2025-06-10 00:14:24 +0000"
+      "has_cut_limestone_slab": "2025-06-09 23:36:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_slab_recycling": {
+    "criteria": {
+      "has_cut_limestone_brick_slab": "2025-06-09 23:37:28 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:first_battle_victory": {
+    "criteria": {
+      "win": "2025-06-09 23:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-09 23:52:42 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/red_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-06-09 23:53:41 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/great_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-06-09 23:53:41 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/park_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-06-09 23:53:41 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/sport_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-06-09 23:53:41 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/lure_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-06-09 23:53:41 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/poke_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-06-09 23:53:41 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/soothe_bell": {
+    "criteria": {
+      "has_nugget": "2025-06-10 00:08:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-10 00:08:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-10 00:08:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-10 00:12:02 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-06-10 00:12:02 +0000"
     },
     "done": true
   },
   "create:recipes/misc/crafting/logistics/pulse_timer": {
     "criteria": {
       "has_item": "2025-06-10 00:14:19 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/cardboard_helmet": {
-    "criteria": {
-      "has_item": "2025-06-10 01:00:10 +0000"
-    },
-    "done": true
-  },
-  "create:cardboard": {
-    "criteria": {
-      "0": "2025-06-10 01:00:10 +0000"
     },
     "done": true
   },
@@ -4203,45 +4276,9 @@
     },
     "done": true
   },
-  "cobblemon:first_battle_victory": {
-    "criteria": {
-      "win": "2025-06-09 23:43:40 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2025-06-10 00:14:19 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/package_frogport": {
-    "criteria": {
-      "has_item": "2025-06-10 01:00:10 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/cardboard_from_bound_block": {
-    "criteria": {
-      "has_item": "2025-06-10 01:00:10 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_limestone_brick_slab_recycling": {
-    "criteria": {
-      "has_cut_limestone_brick_slab": "2025-06-09 23:37:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-06-10 00:12:02 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/redstone_requester": {
-    "criteria": {
-      "has_item": "2025-06-10 01:00:10 +0000"
     },
     "done": true
   },
@@ -4254,24 +4291,6 @@
   "cobblemon:recipes/evolution/electirizer": {
     "criteria": {
       "has_redstone": "2025-06-10 00:14:19 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/stock_link": {
-    "criteria": {
-      "has_item": "2025-06-10 01:00:10 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald": "2025-06-10 00:12:02 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/name_tag": {
-    "criteria": {
-      "has_item": "2025-06-10 01:00:10 +0000"
     },
     "done": true
   },
@@ -4293,24 +4312,6 @@
     },
     "done": true
   },
-  "cobblemon:recipes/held/soothe_bell": {
-    "criteria": {
-      "has_nugget": "2025-06-10 00:08:16 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/cardboard_chestplate": {
-    "criteria": {
-      "has_item": "2025-06-10 01:00:10 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/agriculture/red_apricorn_smelt_to_dye": {
-    "criteria": {
-      "has_apricorn": "2025-06-09 23:53:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-06-10 00:14:19 +0000"
@@ -4329,21 +4330,93 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
     "criteria": {
-      "tamed_animal": "2025-06-09 23:52:42 +0000"
+      "has_item": "2025-06-10 00:14:19 +0000"
     },
     "done": true
   },
-  "cobblemon:recipes/balls/great_ball": {
+  "minecraft:recipes/redstone/dropper": {
     "criteria": {
-      "has_red_apricorn": "2025-06-09 23:53:41 +0000"
+      "has_redstone": "2025-06-10 00:14:19 +0000"
     },
-    "done": false
+    "done": true
   },
-  "create:recipes/building_blocks/ornate_iron_window": {
+  "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
-      "has_ingredient": "2025-06-10 00:08:16 +0000"
+      "has_redstone": "2025-06-10 00:14:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-06-10 00:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-06-10 00:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-10 00:14:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-10 00:18:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/cardboard_helmet": {
+    "criteria": {
+      "has_item": "2025-06-10 01:00:10 +0000"
+    },
+    "done": true
+  },
+  "create:cardboard": {
+    "criteria": {
+      "0": "2025-06-10 01:00:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/package_frogport": {
+    "criteria": {
+      "has_item": "2025-06-10 01:00:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/cardboard_from_bound_block": {
+    "criteria": {
+      "has_item": "2025-06-10 01:00:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/redstone_requester": {
+    "criteria": {
+      "has_item": "2025-06-10 01:00:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/stock_link": {
+    "criteria": {
+      "has_item": "2025-06-10 01:00:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/name_tag": {
+    "criteria": {
+      "has_item": "2025-06-10 01:00:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/cardboard_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-10 01:00:10 +0000"
     },
     "done": true
   },
@@ -4359,21 +4432,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
-    "criteria": {
-      "has_item": "2025-06-10 00:14:19 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/appliances/book": {
     "criteria": {
       "has_item": "2025-06-10 01:00:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dropper": {
-    "criteria": {
-      "has_redstone": "2025-06-10 00:14:19 +0000"
     },
     "done": true
   },
@@ -4383,27 +4444,9 @@
     },
     "done": true
   },
-  "cobblemon:recipes/balls/park_ball": {
-    "criteria": {
-      "has_red_apricorn": "2025-06-09 23:53:41 +0000"
-    },
-    "done": false
-  },
   "create:recipes/misc/crafting/appliances/cardboard_boots": {
     "criteria": {
       "has_item": "2025-06-10 01:00:10 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_limestone_slab_recycling": {
-    "criteria": {
-      "has_cut_limestone_slab": "2025-06-09 23:36:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-06-10 00:18:35 +0000"
     },
     "done": true
   },
@@ -4412,18 +4455,6 @@
       "has_item": "2025-06-10 01:00:10 +0000"
     },
     "done": true
-  },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2025-06-10 00:14:19 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/balls/sport_ball": {
-    "criteria": {
-      "has_red_apricorn": "2025-06-09 23:53:41 +0000"
-    },
-    "done": false
   },
   "create:recipes/misc/crafting/logistics/packager": {
     "criteria": {
@@ -4443,9 +4474,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/rose_quartz": {
+  "create:recipes/misc/crafting/appliances/cardboard_sword": {
     "criteria": {
-      "has_item": "2025-06-10 00:14:19 +0000"
+      "has_item": "2025-06-10 01:00:10 +0000"
     },
     "done": true
   },
@@ -4455,33 +4486,111 @@
     },
     "done": true
   },
-  "cobblemon:recipes/balls/lure_ball": {
+  "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
-      "has_red_apricorn": "2025-06-09 23:53:41 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/misc/crafting/appliances/cardboard_sword": {
-    "criteria": {
-      "has_item": "2025-06-10 01:00:10 +0000"
+      "has_stone": "2025-06-10 02:38:43 +0000"
     },
     "done": true
   },
-  "cobblemon:recipes/balls/poke_ball": {
+  "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
-      "has_red_apricorn": "2025-06-09 23:53:41 +0000"
+      "has_smooth_stone": "2025-06-10 02:40:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
-      "has_iron_nugget": "2025-06-10 00:08:16 +0000"
+      "has_stone": "2025-06-10 02:38:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/piston": {
+  "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
-      "has_redstone": "2025-06-10 00:14:19 +0000"
+      "has_stone": "2025-06-10 02:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-10 02:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-06-10 02:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-06-10 02:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-06-10 02:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-06-10 02:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-10 02:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-10 02:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-10 02:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-10 02:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-10 02:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-10 02:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-10 02:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-06-10 02:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-06-10 02:38:43 +0000"
     },
     "done": true
   },
