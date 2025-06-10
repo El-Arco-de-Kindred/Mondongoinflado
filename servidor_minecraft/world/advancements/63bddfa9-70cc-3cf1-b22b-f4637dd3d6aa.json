@@ -5941,6 +5941,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-10 03:09:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_slab_recycling": {
     "criteria": {
       "has_cut_limestone_slab": "2025-06-10 01:04:39 +0000"
@@ -5965,6 +5971,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/brass_ingot_from_compacting": {
+    "criteria": {
+      "has_item": "2025-06-10 03:05:26 +0000"
+    },
+    "done": true
+  },
   "create:fan_processing": {
     "criteria": {
       "0": "2025-06-10 00:54:25 +0000"
@@ -5980,6 +5992,12 @@
   "create:frogport": {
     "criteria": {
       "0": "2025-06-10 01:50:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/attribute_filter_clear": {
+    "criteria": {
+      "has_item": "2025-06-10 03:05:32 +0000"
     },
     "done": true
   },

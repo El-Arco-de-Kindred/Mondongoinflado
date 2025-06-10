@@ -160,3 +160,12 @@
 [10Jun2025 03:00:37.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made MIKE a server operator
 [10Jun2025 03:00:45.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Aesthetikkkk]
 [10Jun2025 03:00:56.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aesthetikkkk: Made MIKE no longer a server operator]
+[10Jun2025 03:05:34.572] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/logistics/filter/AttributeFilterMenu$WhitelistMode
+[10Jun2025 03:05:57.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Set the time to 1000]
+[10Jun2025 03:09:58.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2458, y=72, z=-12} BlockPos{x=2459, y=72, z=-11}
+[10Jun2025 03:11:19.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Made MIKE a server operator]
+[10Jun2025 03:11:23.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set the time to 13000]
+[10Jun2025 03:11:27.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set the time to 6000]
+[10Jun2025 03:11:32.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set the time to 18000]
+[10Jun2025 03:11:59.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set the time to 1000]
+[10Jun2025 03:12:38.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lcdo_Patino: Teleported Lcdo_Patino to samore123]
