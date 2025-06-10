@@ -25,3 +25,21 @@
 [10Jun2025 00:28:53.890] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['mama burra'/29179, l='ServerLevel[world]', x=-1461.50, y=65.45, z=447.50] died: mama burra was processed by Crushing Wheels
 [10Jun2025 00:29:03.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE was processed by Crushing Wheels
 [10Jun2025 00:29:37.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Lcdo_Patino]
+[10Jun2025 00:33:30.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino was slain by Enderman
+[10Jun2025 00:34:51.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE was processed by Crushing Wheels
+[10Jun2025 00:34:51.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Teleported samore123 to MIKE]
+[10Jun2025 00:34:53.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 was processed by Crushing Wheels
+[10Jun2025 00:34:57.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Lcdo_Patino]
+[10Jun2025 00:35:04.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Teleported samore123 to MIKE]
+[10Jun2025 00:35:27.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 was thrown into Crushing Wheels by MIKE
+[10Jun2025 00:35:33.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Teleported samore123 to MIKE]
+[10Jun2025 00:35:55.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino was slain by MIKE
+[10Jun2025 00:36:34.082] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/logistics/funnel/FunnelBlockEntity$Mode
+[10Jun2025 00:39:37.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lcdo_Patino moved wrongly!
+[10Jun2025 00:39:38.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lcdo_Patino moved wrongly!
+[10Jun2025 00:40:11.184] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/logistics/filter/FilterScreenPacket$Option
+[10Jun2025 00:40:43.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE was processed by Crushing Wheels
+[10Jun2025 00:40:51.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE was processed by Crushing Wheels
+[10Jun2025 00:41:17.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Teleported samore123 to MIKE]
+[10Jun2025 00:41:39.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2353ms or 47 ticks behind
+[10Jun2025 00:41:45.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samore123 moved wrongly!
