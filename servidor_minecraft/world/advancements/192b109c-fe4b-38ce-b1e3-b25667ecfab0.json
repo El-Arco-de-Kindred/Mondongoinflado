@@ -136,6 +136,7 @@
       "cooked_beef": "2025-06-09 20:29:10 +0000",
       "beef": "2025-06-10 00:24:10 +0000",
       "porkchop": "2025-06-09 04:45:08 +0000",
+      "apple": "2025-06-10 00:53:53 +0000",
       "mutton": "2025-06-09 05:21:18 +0000",
       "bread": "2025-06-09 20:58:55 +0000",
       "beetroot": "2025-06-09 03:22:24 +0000"
@@ -4178,6 +4179,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/cardboard_helmet": {
+    "criteria": {
+      "has_item": "2025-06-10 01:00:10 +0000"
+    },
+    "done": true
+  },
+  "create:cardboard": {
+    "criteria": {
+      "0": "2025-06-10 01:00:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-06-10 00:14:19 +0000"
@@ -4202,6 +4215,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/package_frogport": {
+    "criteria": {
+      "has_item": "2025-06-10 01:00:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/cardboard_from_bound_block": {
+    "criteria": {
+      "has_item": "2025-06-10 01:00:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_brick_slab_recycling": {
     "criteria": {
       "has_cut_limestone_brick_slab": "2025-06-09 23:37:28 +0000"
@@ -4211,6 +4236,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-06-10 00:12:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/redstone_requester": {
+    "criteria": {
+      "has_item": "2025-06-10 01:00:10 +0000"
     },
     "done": true
   },
@@ -4226,9 +4257,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/stock_link": {
+    "criteria": {
+      "has_item": "2025-06-10 01:00:10 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/emerald": {
     "criteria": {
       "has_emerald": "2025-06-10 00:12:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/name_tag": {
+    "criteria": {
+      "has_item": "2025-06-10 01:00:10 +0000"
     },
     "done": true
   },
@@ -4253,6 +4296,12 @@
   "cobblemon:recipes/held/soothe_bell": {
     "criteria": {
       "has_nugget": "2025-06-10 00:08:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/cardboard_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-10 01:00:10 +0000"
     },
     "done": true
   },
@@ -4298,9 +4347,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/cardboard_from_block": {
+    "criteria": {
+      "has_item": "2025-06-10 01:00:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/bound_cardboard_block": {
+    "criteria": {
+      "has_item": "2025-06-10 01:00:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2025-06-10 00:14:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/book": {
+    "criteria": {
+      "has_item": "2025-06-10 01:00:10 +0000"
     },
     "done": true
   },
@@ -4310,11 +4377,23 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/cardboard_block": {
+    "criteria": {
+      "has_item": "2025-06-10 01:00:10 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/balls/park_ball": {
     "criteria": {
       "has_red_apricorn": "2025-06-09 23:53:41 +0000"
     },
     "done": false
+  },
+  "create:recipes/misc/crafting/appliances/cardboard_boots": {
+    "criteria": {
+      "has_item": "2025-06-10 01:00:10 +0000"
+    },
+    "done": true
   },
   "create:recipes/building_blocks/cut_limestone_slab_recycling": {
     "criteria": {
@@ -4325,6 +4404,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-06-10 00:18:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/cardboard_leggings": {
+    "criteria": {
+      "has_item": "2025-06-10 01:00:10 +0000"
     },
     "done": true
   },
@@ -4340,6 +4425,24 @@
     },
     "done": false
   },
+  "create:recipes/misc/crafting/logistics/packager": {
+    "criteria": {
+      "has_item": "2025-06-10 01:00:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/item_frame": {
+    "criteria": {
+      "has_item": "2025-06-10 01:00:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/stock_ticker": {
+    "criteria": {
+      "has_item": "2025-06-10 01:00:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2025-06-10 00:14:19 +0000"
@@ -4351,6 +4454,12 @@
       "has_red_apricorn": "2025-06-09 23:53:41 +0000"
     },
     "done": false
+  },
+  "create:recipes/misc/crafting/appliances/cardboard_sword": {
+    "criteria": {
+      "has_item": "2025-06-10 01:00:10 +0000"
+    },
+    "done": true
   },
   "cobblemon:recipes/balls/poke_ball": {
     "criteria": {

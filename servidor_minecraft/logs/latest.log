@@ -43,3 +43,22 @@
 [10Jun2025 00:41:17.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Teleported samore123 to MIKE]
 [10Jun2025 00:41:39.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2353ms or 47 ticks behind
 [10Jun2025 00:41:45.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samore123 moved wrongly!
+[10Jun2025 00:44:18.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Set the time to 1000]
+[10Jun2025 00:45:37.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Lcdo_Patino]
+[10Jun2025 00:45:43.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Teleported samore123 to MIKE]
+[10Jun2025 00:47:36.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE was processed by Crushing Wheels
+[10Jun2025 00:47:42.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Lcdo_Patino]
+[10Jun2025 00:49:33.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino was poked to death by a sweet berry bush
+[10Jun2025 00:51:43.173] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1451, y=78, z=496} BlockPos{x=-1447, y=77, z=497}
+[10Jun2025 00:51:46.149] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1422, y=77, z=497} BlockPos{x=-1421, y=77, z=496}
+[10Jun2025 00:51:46.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1422, y=77, z=497} BlockPos{x=-1421, y=77, z=496}
+[10Jun2025 00:51:46.236] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1422, y=77, z=497} BlockPos{x=-1421, y=77, z=496}
+[10Jun2025 00:53:27.684] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1433, y=75, z=503} BlockPos{x=-1433, y=76, z=502}
+[10Jun2025 00:54:23.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Set the time to 1000]
+[10Jun2025 00:55:11.984] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/belt/transport/BeltInventory$Ending
+[10Jun2025 00:55:48.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to samore123]
+[10Jun2025 00:56:37.015] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:bamboo_jungle took 1119 ms
+[10Jun2025 00:56:39.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to 554.500000, 65.000000, 1379.500000]
+[10Jun2025 00:58:06.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Teleported samore123 to MIKE]
+[10Jun2025 00:58:19.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Lcdo_Patino]
+[10Jun2025 00:58:19.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Teleported samore123 to Lcdo_Patino]
