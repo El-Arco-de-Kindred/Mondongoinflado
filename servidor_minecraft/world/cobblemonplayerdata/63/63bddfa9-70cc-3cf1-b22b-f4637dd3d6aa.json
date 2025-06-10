@@ -1414,6 +1414,13 @@
             "status": "SEEN",
             "discoveredTimestamp": 1749511704501
           }
+        },
+        "megaalakazam": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749512602560
+          }
         }
       },
       "name": "cobbledex_discovery"

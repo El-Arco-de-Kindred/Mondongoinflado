@@ -2027,6 +2027,20 @@
         "status": "SEEN",
         "discoveredTimestamp": 1749511704502
       }
+    },
+    "megaalakazam": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749512602560
+      }
+    },
+    "abra": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1749513973456
+      }
     }
   }
 }

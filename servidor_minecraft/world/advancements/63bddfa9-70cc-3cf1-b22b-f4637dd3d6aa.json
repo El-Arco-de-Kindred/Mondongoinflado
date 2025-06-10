@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:taiga": "2025-06-07 02:33:25 +0000",
       "minecraft:frozen_river": "2025-06-07 23:17:59 +0000",
+      "minecraft:cherry_grove": "2025-06-10 00:03:31 +0000",
       "minecraft:birch_forest": "2025-06-07 02:15:50 +0000",
       "minecraft:windswept_hills": "2025-06-07 03:18:15 +0000",
       "minecraft:bamboo_jungle": "2025-06-07 04:03:25 +0000",
@@ -5427,6 +5428,12 @@
     },
     "done": true
   },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2025-06-10 00:08:16 +0000"
+    },
+    "done": true
+  },
   "create:brass_casing": {
     "criteria": {
       "0": "2025-06-09 22:44:52 +0000"
@@ -5589,9 +5596,21 @@
     },
     "done": true
   },
+  "create:steam_engine": {
+    "criteria": {
+      "0": "2025-06-09 23:42:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/nixie_tube": {
     "criteria": {
       "has_item": "2025-06-09 22:44:58 +0000"
+    },
+    "done": true
+  },
+  "create:water_supply": {
+    "criteria": {
+      "0": "2025-06-09 23:41:57 +0000"
     },
     "done": true
   },

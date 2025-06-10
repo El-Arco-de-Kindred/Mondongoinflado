@@ -160,9 +160,9 @@
     "totalCaptureCount": 6,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 6,
-    "totalBattleVictoryCount": 65,
-    "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 65,
+    "totalBattleVictoryCount": 74,
+    "totalPvPBattleVictoryCount": 2,
+    "totalPvWBattleVictoryCount": 72,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -176,10 +176,10 @@
     },
     "totalDefeatedCounts": {
       "cobblemon:patrat": 2,
-      "cobblemon:wooloo": 7,
+      "cobblemon:wooloo": 8,
       "cobblemon:flaaffy": 1,
       "cobblemon:mareep": 4,
-      "cobblemon:bunnelby": 2,
+      "cobblemon:bunnelby": 3,
       "cobblemon:snubbull": 1,
       "cobblemon:lechonk": 2,
       "cobblemon:herdier": 2,
@@ -189,8 +189,8 @@
       "cobblemon:oinkologne": 1,
       "cobblemon:snorunt": 1,
       "cobblemon:tauros": 2,
-      "cobblemon:bouffalant": 3,
-      "cobblemon:miltank": 2,
+      "cobblemon:bouffalant": 5,
+      "cobblemon:miltank": 4,
       "cobblemon:pidove": 1,
       "cobblemon:varoom": 1,
       "cobblemon:spearow": 1,
@@ -214,7 +214,8 @@
       "cobblemon:lillipup": 1,
       "cobblemon:diggersby": 1,
       "cobblemon:fletchinder": 1,
-      "cobblemon:gastly": 2
+      "cobblemon:gastly": 2,
+      "cobblemon:stonjourner": 1
     },
     "aspectsCollected": {}
   }

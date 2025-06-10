@@ -1145,6 +1145,13 @@
             "status": "SEEN",
             "discoveredTimestamp": 1749510292483
           }
+        },
+        "abra": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1749513973456
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1162,9 +1169,9 @@
     "totalCaptureCount": 42,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 12,
-    "totalBattleVictoryCount": 162,
+    "totalBattleVictoryCount": 173,
     "totalPvPBattleVictoryCount": 5,
-    "totalPvWBattleVictoryCount": 157,
+    "totalPvWBattleVictoryCount": 168,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 12,
@@ -1190,7 +1197,7 @@
     "totalDefeatedCounts": {
       "cobblemon:oddish": 3,
       "cobblemon:hoothoot": 1,
-      "cobblemon:nickit": 1,
+      "cobblemon:nickit": 2,
       "cobblemon:pidgey": 4,
       "cobblemon:igglybuff": 1,
       "cobblemon:geodude": 4,
@@ -1199,20 +1206,20 @@
       "cobblemon:squawkabilly": 1,
       "cobblemon:smoochum": 1,
       "cobblemon:sentret": 3,
-      "cobblemon:voltorb": 2,
+      "cobblemon:voltorb": 3,
       "cobblemon:koffing": 2,
-      "cobblemon:patrat": 3,
+      "cobblemon:patrat": 4,
       "cobblemon:lillipup": 1,
       "cobblemon:timburr": 1,
-      "cobblemon:wooloo": 4,
+      "cobblemon:wooloo": 5,
       "cobblemon:deerling": 2,
       "cobblemon:taillow": 2,
       "cobblemon:miltank": 7,
-      "cobblemon:mareep": 6,
+      "cobblemon:mareep": 7,
       "cobblemon:lechonk": 6,
       "cobblemon:zigzagoon": 2,
       "cobblemon:combee": 3,
-      "cobblemon:bouffalant": 9,
+      "cobblemon:bouffalant": 10,
       "cobblemon:cottonee": 3,
       "cobblemon:pelipper": 2,
       "cobblemon:krabby": 1,
@@ -1227,7 +1234,7 @@
       "cobblemon:oinkologne": 1,
       "cobblemon:beedrill": 1,
       "cobblemon:roggenrola": 1,
-      "cobblemon:snubbull": 1,
+      "cobblemon:snubbull": 2,
       "cobblemon:vivillon": 1,
       "cobblemon:sawsbuck": 1,
       "cobblemon:fletchling": 1,
@@ -1241,7 +1248,7 @@
       "cobblemon:lopunny": 1,
       "cobblemon:dugtrio": 1,
       "cobblemon:skarmory": 1,
-      "cobblemon:tauros": 2,
+      "cobblemon:tauros": 3,
       "cobblemon:crabrawler": 1,
       "cobblemon:swellow": 1,
       "cobblemon:pidove": 1,
@@ -1249,12 +1256,14 @@
       "cobblemon:stonjourner": 1,
       "cobblemon:diggersby": 1,
       "cobblemon:ursaring": 1,
-      "cobblemon:gimmighoul": 1,
+      "cobblemon:gimmighoul": 2,
       "cobblemon:plusle": 1,
       "cobblemon:ponyta": 2,
       "cobblemon:misdreavus": 1,
       "cobblemon:dhelmise": 1,
-      "cobblemon:flaaffy": 1
+      "cobblemon:flaaffy": 1,
+      "cobblemon:maschiff": 1,
+      "cobblemon:bunnelby": 1
     },
     "aspectsCollected": {
       "cobblemon:gholdengo": []
