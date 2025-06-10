@@ -1006,8 +1006,9 @@
     "yamper": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1749271816045
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749271816045,
+        "caughtTimestamp": 1749526246992
       }
     },
     "maushold": {
@@ -1183,8 +1184,9 @@
       },
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1749336949969
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749336949969,
+        "caughtTimestamp": 1749526669749
       }
     },
     "eevee": {

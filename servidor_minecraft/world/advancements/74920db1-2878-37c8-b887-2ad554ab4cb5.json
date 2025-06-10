@@ -4464,5 +4464,11 @@
     },
     "done": true
   },
+  "cobblemon:recipes/consumables/leek_and_potato_stew": {
+    "criteria": {
+      "has_potato": "2025-06-10 03:34:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

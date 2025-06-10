@@ -94,6 +94,7 @@
   "cobblemon:craft_all_balls": {
     "criteria": {
       "great_ball": "2025-06-09 03:42:34 +0000",
+      "ancient_poke_ball": "2025-06-10 03:37:49 +0000",
       "ultra_ball": "2025-06-09 03:19:16 +0000",
       "roseate_ball": "2025-06-09 03:46:32 +0000"
     },
@@ -4631,6 +4632,12 @@
     },
     "done": true
   },
+  "cobblemon:craft_ancient_balls": {
+    "criteria": {
+      "ancient_poke_ball": "2025-06-10 03:37:49 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-10 02:38:43 +0000"
@@ -4658,6 +4665,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-10 02:38:43 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/leek_and_potato_stew": {
+    "criteria": {
+      "has_potato": "2025-06-10 03:34:09 +0000"
     },
     "done": true
   },

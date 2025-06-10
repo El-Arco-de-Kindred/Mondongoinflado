@@ -374,6 +374,14 @@
             "discoveredTimestamp": 1749523258201,
             "caughtTimestamp": 1749523258201
           }
+        },
+        "yamper": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749526246991,
+            "caughtTimestamp": 1749526246991
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -387,19 +395,19 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 15,
+    "totalCaptureCount": 16,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 18,
-    "totalBattleVictoryCount": 91,
+    "totalBattleVictoryCount": 92,
     "totalPvPBattleVictoryCount": 5,
-    "totalPvWBattleVictoryCount": 86,
+    "totalPvWBattleVictoryCount": 87,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 2,
     "totalTradedCount": 9,
     "totalTypeCaptureCounts": {
       "water": 2,
       "psychic": 1,
-      "electric": 1,
+      "electric": 2,
       "ground": 1,
       "dark": 1,
       "normal": 3,
@@ -445,7 +453,8 @@
       "cobblemon:wooloo": 6,
       "cobblemon:oddish": 1,
       "cobblemon:elekid": 1,
-      "cobblemon:tandemaus": 1
+      "cobblemon:tandemaus": 1,
+      "cobblemon:bouffalant": 1
     },
     "aspectsCollected": {
       "cobblemon:gholdengo": []

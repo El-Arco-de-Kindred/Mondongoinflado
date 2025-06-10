@@ -155,22 +155,32 @@
             "discoveredTimestamp": 1749523720093,
             "caughtTimestamp": 1749523720093
           }
+        },
+        "meowth": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749526669747,
+            "caughtTimestamp": 1749526669747
+          }
         }
       },
       "name": "cobbledex_discovery"
     },
     "Cobbledex_RewardHistory": {
-      "received": [],
+      "received": [
+        "15"
+      ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 7,
+    "totalCaptureCount": 8,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 6,
-    "totalBattleVictoryCount": 85,
+    "totalBattleVictoryCount": 86,
     "totalPvPBattleVictoryCount": 2,
-    "totalPvWBattleVictoryCount": 83,
+    "totalPvWBattleVictoryCount": 84,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -180,7 +190,8 @@
       "psychic": 1,
       "ground": 1,
       "dark": 2,
-      "grass": 1
+      "grass": 1,
+      "normal": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:patrat": 2,
@@ -197,7 +208,7 @@
       "cobblemon:oinkologne": 1,
       "cobblemon:snorunt": 1,
       "cobblemon:tauros": 2,
-      "cobblemon:bouffalant": 7,
+      "cobblemon:bouffalant": 8,
       "cobblemon:miltank": 5,
       "cobblemon:pidove": 1,
       "cobblemon:varoom": 1,
