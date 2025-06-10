@@ -62,3 +62,9 @@
 [10Jun2025 00:58:06.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Teleported samore123 to MIKE]
 [10Jun2025 00:58:19.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Teleported MIKE to Lcdo_Patino]
 [10Jun2025 00:58:19.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [samore123: Teleported samore123 to Lcdo_Patino]
+[10Jun2025 01:06:23.429] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samore123 lost connection: Disconnected
+[10Jun2025 01:06:23.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samore123 left the game
+[10Jun2025 01:08:33.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lcdo_Patino was slain by Enderman
+[10Jun2025 01:08:48.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MIKE was slain by Zombie
+[10Jun2025 01:09:36.881] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/item/ItemHelper$ExtractionCountMode
+[10Jun2025 01:12:22.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIKE: Set the time to 1000]

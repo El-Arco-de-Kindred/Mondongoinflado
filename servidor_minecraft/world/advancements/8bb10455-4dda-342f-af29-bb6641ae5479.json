@@ -4540,6 +4540,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/cardboard_helmet": {
+    "criteria": {
+      "has_item": "2025-06-10 01:04:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-06-09 23:35:22 +0000"
@@ -4549,6 +4555,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-06-10 00:29:55 +0000"
+    },
+    "done": true
+  },
+  "create:cardboard": {
+    "criteria": {
+      "0": "2025-06-10 01:04:08 +0000"
     },
     "done": true
   },
@@ -4588,9 +4600,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/package_frogport": {
+    "criteria": {
+      "has_item": "2025-06-10 01:04:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_crimsite_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-06-09 23:35:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/cardboard_from_bound_block": {
+    "criteria": {
+      "has_item": "2025-06-10 01:04:08 +0000"
     },
     "done": true
   },
@@ -4648,6 +4672,24 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/redstone_requester": {
+    "criteria": {
+      "has_item": "2025-06-10 01:04:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/stock_link": {
+    "criteria": {
+      "has_item": "2025-06-10 01:04:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/name_tag": {
+    "criteria": {
+      "has_item": "2025-06-10 01:04:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-06-09 23:35:58 +0000"
@@ -4663,6 +4705,12 @@
   "megamons:gen1_07_gengarite_stone": {
     "criteria": {
       "has_cut_gengarite": "2025-06-09 22:49:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/cardboard_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-10 01:04:08 +0000"
     },
     "done": true
   },
@@ -4744,6 +4792,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/cardboard_from_block": {
+    "criteria": {
+      "has_item": "2025-06-10 01:04:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-09 23:35:22 +0000"
@@ -4762,15 +4816,39 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/bound_cardboard_block": {
+    "criteria": {
+      "has_item": "2025-06-10 01:04:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-06-09 23:35:22 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/book": {
+    "criteria": {
+      "has_item": "2025-06-10 01:04:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/cardboard_block": {
+    "criteria": {
+      "has_item": "2025-06-10 01:04:08 +0000"
+    },
+    "done": true
+  },
   "megamons:gen4_02_garchompite_stone": {
     "criteria": {
       "has_cut_garchompite": "2025-06-09 22:50:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/cardboard_boots": {
+    "criteria": {
+      "has_item": "2025-06-10 01:04:08 +0000"
     },
     "done": true
   },
@@ -4786,15 +4864,39 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/cardboard_leggings": {
+    "criteria": {
+      "has_item": "2025-06-10 01:04:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-06-09 23:35:58 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/packager": {
+    "criteria": {
+      "has_item": "2025-06-10 01:04:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/item_frame": {
+    "criteria": {
+      "has_item": "2025-06-10 01:04:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-06-10 00:56:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/stock_ticker": {
+    "criteria": {
+      "has_item": "2025-06-10 01:04:08 +0000"
     },
     "done": true
   },
@@ -4822,6 +4924,12 @@
     },
     "done": true
   },
+  "create:cardboard_armor": {
+    "criteria": {
+      "0": "2025-06-10 01:03:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-06-10 00:56:47 +0000"
@@ -4831,6 +4939,12 @@
   "create:recipes/building_blocks/small_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-06-09 23:35:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/cardboard_sword": {
+    "criteria": {
+      "has_item": "2025-06-10 01:04:08 +0000"
     },
     "done": true
   },
